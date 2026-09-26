@@ -1,0 +1,5512 @@
+[
+ {
+  "id": "c0000",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a goldfish?"
+ },
+ {
+  "id": "c0001",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a great white shark?"
+ },
+ {
+  "id": "c0002",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a rooster?"
+ },
+ {
+  "id": "c0003",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a hen?"
+ },
+ {
+  "id": "c0004",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show an ostrich?"
+ },
+ {
+  "id": "c0005",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a bald eagle?"
+ },
+ {
+  "id": "c0006",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a vulture?"
+ },
+ {
+  "id": "c0007",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a scorpion?"
+ },
+ {
+  "id": "c0008",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a duck?"
+ },
+ {
+  "id": "c0009",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a goose?"
+ },
+ {
+  "id": "c0010",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a koala?"
+ },
+ {
+  "id": "c0011",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a snail?"
+ },
+ {
+  "id": "c0012",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a flamingo?"
+ },
+ {
+  "id": "c0013",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a pelican?"
+ },
+ {
+  "id": "c0014",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a killer whale?"
+ },
+ {
+  "id": "c0015",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a red fox?"
+ },
+ {
+  "id": "c0016",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a tabby cat?"
+ },
+ {
+  "id": "c0017",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a leopard?"
+ },
+ {
+  "id": "c0018",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a lion?"
+ },
+ {
+  "id": "c0019",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a tiger?"
+ },
+ {
+  "id": "c0020",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a polar bear?"
+ },
+ {
+  "id": "c0021",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a ladybug?"
+ },
+ {
+  "id": "c0022",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a fly?"
+ },
+ {
+  "id": "c0023",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a bee?"
+ },
+ {
+  "id": "c0024",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show an ant?"
+ },
+ {
+  "id": "c0025",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a grasshopper?"
+ },
+ {
+  "id": "c0026",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a cockroach?"
+ },
+ {
+  "id": "c0027",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a dragonfly?"
+ },
+ {
+  "id": "c0028",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a starfish?"
+ },
+ {
+  "id": "c0029",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a hare?"
+ },
+ {
+  "id": "c0030",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a hamster?"
+ },
+ {
+  "id": "c0031",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a beaver?"
+ },
+ {
+  "id": "c0032",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a guinea pig?"
+ },
+ {
+  "id": "c0033",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a zebra?"
+ },
+ {
+  "id": "c0034",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a pig?"
+ },
+ {
+  "id": "c0035",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a hippopotamus?"
+ },
+ {
+  "id": "c0036",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show an ox?"
+ },
+ {
+  "id": "c0037",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show an otter?"
+ },
+ {
+  "id": "c0038",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a skunk?"
+ },
+ {
+  "id": "c0039",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a gorilla?"
+ },
+ {
+  "id": "c0040",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a giant panda?"
+ },
+ {
+  "id": "c0041",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show an acoustic guitar?"
+ },
+ {
+  "id": "c0042",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show an airliner?"
+ },
+ {
+  "id": "c0043",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show an ambulance?"
+ },
+ {
+  "id": "c0044",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show an analog clock?"
+ },
+ {
+  "id": "c0045",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show an apron?"
+ },
+ {
+  "id": "c0046",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a trash can?"
+ },
+ {
+  "id": "c0047",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a backpack?"
+ },
+ {
+  "id": "c0048",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a bakery?"
+ },
+ {
+  "id": "c0049",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a ballpoint pen?"
+ },
+ {
+  "id": "c0050",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a band-aid?"
+ },
+ {
+  "id": "c0051",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a barbell?"
+ },
+ {
+  "id": "c0052",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a barber chair?"
+ },
+ {
+  "id": "c0053",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a barbershop?"
+ },
+ {
+  "id": "c0054",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a barn?"
+ },
+ {
+  "id": "c0055",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a wheelbarrow?"
+ },
+ {
+  "id": "c0056",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a baseball?"
+ },
+ {
+  "id": "c0057",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a basketball?"
+ },
+ {
+  "id": "c0058",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a swimming cap?"
+ },
+ {
+  "id": "c0059",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a bath towel?"
+ },
+ {
+  "id": "c0060",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a bathtub?"
+ },
+ {
+  "id": "c0061",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a lighthouse?"
+ },
+ {
+  "id": "c0062",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a beer bottle?"
+ },
+ {
+  "id": "c0063",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a beer glass?"
+ },
+ {
+  "id": "c0064",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a bell tower?"
+ },
+ {
+  "id": "c0065",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a baby bib?"
+ },
+ {
+  "id": "c0066",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a bikini?"
+ },
+ {
+  "id": "c0067",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a ring binder?"
+ },
+ {
+  "id": "c0068",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a binoculars?"
+ },
+ {
+  "id": "c0069",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a birdhouse?"
+ },
+ {
+  "id": "c0070",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a bookcase?"
+ },
+ {
+  "id": "c0071",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a bookstore?"
+ },
+ {
+  "id": "c0072",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a bottle cap?"
+ },
+ {
+  "id": "c0073",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a bow tie?"
+ },
+ {
+  "id": "c0074",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a bra?"
+ },
+ {
+  "id": "c0075",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a broom?"
+ },
+ {
+  "id": "c0076",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a bucket?"
+ },
+ {
+  "id": "c0077",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a buckle?"
+ },
+ {
+  "id": "c0078",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a butcher shop?"
+ },
+ {
+  "id": "c0079",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a taxicab?"
+ },
+ {
+  "id": "c0080",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a candle?"
+ },
+ {
+  "id": "c0081",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a canoe?"
+ },
+ {
+  "id": "c0082",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a can opener?"
+ },
+ {
+  "id": "c0083",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a car mirror?"
+ },
+ {
+  "id": "c0084",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a tool kit?"
+ },
+ {
+  "id": "c0085",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a cardboard box / carton?"
+ },
+ {
+  "id": "c0086",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a car wheel?"
+ },
+ {
+  "id": "c0087",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a mobile phone?"
+ },
+ {
+  "id": "c0088",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a chain-link fence?"
+ },
+ {
+  "id": "c0089",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a chainsaw?"
+ },
+ {
+  "id": "c0090",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a storage chest?"
+ },
+ {
+  "id": "c0091",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a bell or wind chime?"
+ },
+ {
+  "id": "c0092",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a christmas stocking?"
+ },
+ {
+  "id": "c0093",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a church?"
+ },
+ {
+  "id": "c0094",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a movie theater?"
+ },
+ {
+  "id": "c0095",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a cloak?"
+ },
+ {
+  "id": "c0096",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a coffee mug?"
+ },
+ {
+  "id": "c0097",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a coffeemaker?"
+ },
+ {
+  "id": "c0098",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a spiral or coil?"
+ },
+ {
+  "id": "c0099",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a combination lock?"
+ },
+ {
+  "id": "c0100",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a computer keyboard?"
+ },
+ {
+  "id": "c0101",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a candy store?"
+ },
+ {
+  "id": "c0102",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a convertible?"
+ },
+ {
+  "id": "c0103",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a corkscrew?"
+ },
+ {
+  "id": "c0104",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a cowboy boot?"
+ },
+ {
+  "id": "c0105",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a cowboy hat?"
+ },
+ {
+  "id": "c0106",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a cradle?"
+ },
+ {
+  "id": "c0107",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a construction crane?"
+ },
+ {
+  "id": "c0108",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a crash helmet?"
+ },
+ {
+  "id": "c0109",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a crate?"
+ },
+ {
+  "id": "c0110",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show an infant bed?"
+ },
+ {
+  "id": "c0111",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a crutch?"
+ },
+ {
+  "id": "c0112",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a desk?"
+ },
+ {
+  "id": "c0113",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a desktop computer?"
+ },
+ {
+  "id": "c0114",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a diaper?"
+ },
+ {
+  "id": "c0115",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a digital clock?"
+ },
+ {
+  "id": "c0116",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a digital watch?"
+ },
+ {
+  "id": "c0117",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a dining table?"
+ },
+ {
+  "id": "c0118",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a dishcloth?"
+ },
+ {
+  "id": "c0119",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a dishwasher?"
+ },
+ {
+  "id": "c0120",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a dog sled?"
+ },
+ {
+  "id": "c0121",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a dome?"
+ },
+ {
+  "id": "c0122",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a doormat?"
+ },
+ {
+  "id": "c0123",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a drumstick?"
+ },
+ {
+  "id": "c0124",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a dumbbell?"
+ },
+ {
+  "id": "c0125",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show an electric fan?"
+ },
+ {
+  "id": "c0126",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show an electric guitar?"
+ },
+ {
+  "id": "c0127",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show an entertainment center?"
+ },
+ {
+  "id": "c0128",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show an envelope?"
+ },
+ {
+  "id": "c0129",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a filing cabinet?"
+ },
+ {
+  "id": "c0130",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a fire truck?"
+ },
+ {
+  "id": "c0131",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a flagpole?"
+ },
+ {
+  "id": "c0132",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a flute?"
+ },
+ {
+  "id": "c0133",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a folding chair?"
+ },
+ {
+  "id": "c0134",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a football helmet?"
+ },
+ {
+  "id": "c0135",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a fountain?"
+ },
+ {
+  "id": "c0136",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a fountain pen?"
+ },
+ {
+  "id": "c0137",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a frying pan?"
+ },
+ {
+  "id": "c0138",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a fur coat?"
+ },
+ {
+  "id": "c0139",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a garbage truck?"
+ },
+ {
+  "id": "c0140",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a gas pump?"
+ },
+ {
+  "id": "c0141",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a go-kart?"
+ },
+ {
+  "id": "c0142",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a golf ball?"
+ },
+ {
+  "id": "c0143",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a gong?"
+ },
+ {
+  "id": "c0144",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a greenhouse?"
+ },
+ {
+  "id": "c0145",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a grocery store?"
+ },
+ {
+  "id": "c0146",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a hair clip?"
+ },
+ {
+  "id": "c0147",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a hair spray?"
+ },
+ {
+  "id": "c0148",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a hammer?"
+ },
+ {
+  "id": "c0149",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a hamper?"
+ },
+ {
+  "id": "c0150",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a hair dryer?"
+ },
+ {
+  "id": "c0151",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a handkerchief?"
+ },
+ {
+  "id": "c0152",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a honeycomb?"
+ },
+ {
+  "id": "c0153",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a hook?"
+ },
+ {
+  "id": "c0154",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a horse-drawn vehicle?"
+ },
+ {
+  "id": "c0155",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a hourglass?"
+ },
+ {
+  "id": "c0156",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a clothes iron?"
+ },
+ {
+  "id": "c0157",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a carved pumpkin?"
+ },
+ {
+  "id": "c0158",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a jeans?"
+ },
+ {
+  "id": "c0159",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a jeep?"
+ },
+ {
+  "id": "c0160",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a t-shirt?"
+ },
+ {
+  "id": "c0161",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a jigsaw puzzle?"
+ },
+ {
+  "id": "c0162",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a knee pad?"
+ },
+ {
+  "id": "c0163",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a knot?"
+ },
+ {
+  "id": "c0164",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a lab coat?"
+ },
+ {
+  "id": "c0165",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a lampshade?"
+ },
+ {
+  "id": "c0166",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a laptop computer?"
+ },
+ {
+  "id": "c0167",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a lawn mower?"
+ },
+ {
+  "id": "c0168",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a lifeboat?"
+ },
+ {
+  "id": "c0169",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a lighter?"
+ },
+ {
+  "id": "c0170",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a lipstick?"
+ },
+ {
+  "id": "c0171",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a slip-on shoe?"
+ },
+ {
+  "id": "c0172",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a lotion?"
+ },
+ {
+  "id": "c0173",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a music speaker?"
+ },
+ {
+  "id": "c0174",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a messenger bag?"
+ },
+ {
+  "id": "c0175",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a mailbox?"
+ },
+ {
+  "id": "c0176",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show an one-piece bathing suit?"
+ },
+ {
+  "id": "c0177",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a manhole cover?"
+ },
+ {
+  "id": "c0178",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a matchstick?"
+ },
+ {
+  "id": "c0179",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a maze?"
+ },
+ {
+  "id": "c0180",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a measuring cup?"
+ },
+ {
+  "id": "c0181",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a medicine cabinet?"
+ },
+ {
+  "id": "c0182",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a microwave oven?"
+ },
+ {
+  "id": "c0183",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a military uniform?"
+ },
+ {
+  "id": "c0184",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a milk can?"
+ },
+ {
+  "id": "c0185",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a miniskirt?"
+ },
+ {
+  "id": "c0186",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a minivan?"
+ },
+ {
+  "id": "c0187",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a mitten?"
+ },
+ {
+  "id": "c0188",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a mixing bowl?"
+ },
+ {
+  "id": "c0189",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a mobile home?"
+ },
+ {
+  "id": "c0190",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a moped?"
+ },
+ {
+  "id": "c0191",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a graduation cap?"
+ },
+ {
+  "id": "c0192",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a mosquito net?"
+ },
+ {
+  "id": "c0193",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a mountain bike?"
+ },
+ {
+  "id": "c0194",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a tent?"
+ },
+ {
+  "id": "c0195",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a computer mouse?"
+ },
+ {
+  "id": "c0196",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a mousetrap?"
+ },
+ {
+  "id": "c0197",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a moving van?"
+ },
+ {
+  "id": "c0198",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a metal nail?"
+ },
+ {
+  "id": "c0199",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a necklace?"
+ },
+ {
+  "id": "c0200",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a baby pacifier?"
+ },
+ {
+  "id": "c0201",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a notebook computer?"
+ },
+ {
+  "id": "c0202",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show an oxygen mask?"
+ },
+ {
+  "id": "c0203",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a product packet / packaging?"
+ },
+ {
+  "id": "c0204",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a padlock?"
+ },
+ {
+  "id": "c0205",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a paintbrush?"
+ },
+ {
+  "id": "c0206",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a pajamas?"
+ },
+ {
+  "id": "c0207",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a palace?"
+ },
+ {
+  "id": "c0208",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a paper towel?"
+ },
+ {
+  "id": "c0209",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a parachute?"
+ },
+ {
+  "id": "c0210",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a park bench?"
+ },
+ {
+  "id": "c0211",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a parking meter?"
+ },
+ {
+  "id": "c0212",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a patio?"
+ },
+ {
+  "id": "c0213",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a payphone?"
+ },
+ {
+  "id": "c0214",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a pencil case?"
+ },
+ {
+  "id": "c0215",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a pencil sharpener?"
+ },
+ {
+  "id": "c0216",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a perfume?"
+ },
+ {
+  "id": "c0217",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a photocopier?"
+ },
+ {
+  "id": "c0218",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a picket fence?"
+ },
+ {
+  "id": "c0219",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a pickup truck?"
+ },
+ {
+  "id": "c0220",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a pier?"
+ },
+ {
+  "id": "c0221",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a piggy bank?"
+ },
+ {
+  "id": "c0222",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a pill bottle?"
+ },
+ {
+  "id": "c0223",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a pillow?"
+ },
+ {
+  "id": "c0224",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a ping-pong ball?"
+ },
+ {
+  "id": "c0225",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a pinwheel?"
+ },
+ {
+  "id": "c0226",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a pirate ship?"
+ },
+ {
+  "id": "c0227",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a drink pitcher?"
+ },
+ {
+  "id": "c0228",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a plastic bag?"
+ },
+ {
+  "id": "c0229",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a plate rack?"
+ },
+ {
+  "id": "c0230",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a plunger?"
+ },
+ {
+  "id": "c0231",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a police van?"
+ },
+ {
+  "id": "c0232",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a pool table?"
+ },
+ {
+  "id": "c0233",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a soda bottle?"
+ },
+ {
+  "id": "c0234",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a plant pot?"
+ },
+ {
+  "id": "c0235",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a power drill?"
+ },
+ {
+  "id": "c0236",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a printer?"
+ },
+ {
+  "id": "c0237",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a prison?"
+ },
+ {
+  "id": "c0238",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a hockey puck?"
+ },
+ {
+  "id": "c0239",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a punching bag?"
+ },
+ {
+  "id": "c0240",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a purse?"
+ },
+ {
+  "id": "c0241",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a quilt?"
+ },
+ {
+  "id": "c0242",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a race car?"
+ },
+ {
+  "id": "c0243",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a racket?"
+ },
+ {
+  "id": "c0244",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a refrigerator?"
+ },
+ {
+  "id": "c0245",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a remote control?"
+ },
+ {
+  "id": "c0246",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a rocking chair?"
+ },
+ {
+  "id": "c0247",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show an eraser?"
+ },
+ {
+  "id": "c0248",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a rugby ball?"
+ },
+ {
+  "id": "c0249",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a ruler measuring stick?"
+ },
+ {
+  "id": "c0250",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a sneaker?"
+ },
+ {
+  "id": "c0251",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a safe?"
+ },
+ {
+  "id": "c0252",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a safety pin?"
+ },
+ {
+  "id": "c0253",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a salt shaker?"
+ },
+ {
+  "id": "c0254",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a sandal?"
+ },
+ {
+  "id": "c0255",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a weighing scale?"
+ },
+ {
+  "id": "c0256",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a school bus?"
+ },
+ {
+  "id": "c0257",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a scoreboard?"
+ },
+ {
+  "id": "c0258",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a screw?"
+ },
+ {
+  "id": "c0259",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a screwdriver?"
+ },
+ {
+  "id": "c0260",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a seat belt?"
+ },
+ {
+  "id": "c0261",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a sewing machine?"
+ },
+ {
+  "id": "c0262",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a shoe store?"
+ },
+ {
+  "id": "c0263",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a shopping basket?"
+ },
+ {
+  "id": "c0264",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a shopping cart?"
+ },
+ {
+  "id": "c0265",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a shovel?"
+ },
+ {
+  "id": "c0266",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a shower cap?"
+ },
+ {
+  "id": "c0267",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a shower curtain?"
+ },
+ {
+  "id": "c0268",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a sleeping bag?"
+ },
+ {
+  "id": "c0269",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a sliding door?"
+ },
+ {
+  "id": "c0270",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a slot machine?"
+ },
+ {
+  "id": "c0271",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a snowplow?"
+ },
+ {
+  "id": "c0272",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a soap dispenser?"
+ },
+ {
+  "id": "c0273",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a soccer ball?"
+ },
+ {
+  "id": "c0274",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a sock?"
+ },
+ {
+  "id": "c0275",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a sombrero?"
+ },
+ {
+  "id": "c0276",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a soup bowl?"
+ },
+ {
+  "id": "c0277",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a space heater?"
+ },
+ {
+  "id": "c0278",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a spatula?"
+ },
+ {
+  "id": "c0279",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a motorboat?"
+ },
+ {
+  "id": "c0280",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a spider web?"
+ },
+ {
+  "id": "c0281",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a sports car?"
+ },
+ {
+  "id": "c0282",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a scarf?"
+ },
+ {
+  "id": "c0283",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a stone wall?"
+ },
+ {
+  "id": "c0284",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a stopwatch?"
+ },
+ {
+  "id": "c0285",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a stove?"
+ },
+ {
+  "id": "c0286",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a strainer?"
+ },
+ {
+  "id": "c0287",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a tram?"
+ },
+ {
+  "id": "c0288",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a couch?"
+ },
+ {
+  "id": "c0289",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a sunglasses?"
+ },
+ {
+  "id": "c0290",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a sunscreen?"
+ },
+ {
+  "id": "c0291",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a mop?"
+ },
+ {
+  "id": "c0292",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a sweatshirt?"
+ },
+ {
+  "id": "c0293",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a swim trunks / shorts?"
+ },
+ {
+  "id": "c0294",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a swing?"
+ },
+ {
+  "id": "c0295",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show an electrical switch?"
+ },
+ {
+  "id": "c0296",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a syringe?"
+ },
+ {
+  "id": "c0297",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a table lamp?"
+ },
+ {
+  "id": "c0298",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a tape player?"
+ },
+ {
+  "id": "c0299",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a teapot?"
+ },
+ {
+  "id": "c0300",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a teddy bear?"
+ },
+ {
+  "id": "c0301",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a tennis ball?"
+ },
+ {
+  "id": "c0302",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a toaster?"
+ },
+ {
+  "id": "c0303",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a toilet seat?"
+ },
+ {
+  "id": "c0304",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a torch?"
+ },
+ {
+  "id": "c0305",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a tow truck?"
+ },
+ {
+  "id": "c0306",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a toy store?"
+ },
+ {
+  "id": "c0307",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a tractor?"
+ },
+ {
+  "id": "c0308",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a semi-trailer truck?"
+ },
+ {
+  "id": "c0309",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a tray?"
+ },
+ {
+  "id": "c0310",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a trench coat?"
+ },
+ {
+  "id": "c0311",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a tricycle?"
+ },
+ {
+  "id": "c0312",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a hot tub?"
+ },
+ {
+  "id": "c0313",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a vacuum cleaner?"
+ },
+ {
+  "id": "c0314",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a vase?"
+ },
+ {
+  "id": "c0315",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a vending machine?"
+ },
+ {
+  "id": "c0316",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a volleyball?"
+ },
+ {
+  "id": "c0317",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a waffle iron?"
+ },
+ {
+  "id": "c0318",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a wall clock?"
+ },
+ {
+  "id": "c0319",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a wardrobe?"
+ },
+ {
+  "id": "c0320",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a sink?"
+ },
+ {
+  "id": "c0321",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a washing machine?"
+ },
+ {
+  "id": "c0322",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a water bottle?"
+ },
+ {
+  "id": "c0323",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a water jug?"
+ },
+ {
+  "id": "c0324",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a water tower?"
+ },
+ {
+  "id": "c0325",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a whistle?"
+ },
+ {
+  "id": "c0326",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a hair wig?"
+ },
+ {
+  "id": "c0327",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a window screen?"
+ },
+ {
+  "id": "c0328",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a window shade?"
+ },
+ {
+  "id": "c0329",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a wine bottle?"
+ },
+ {
+  "id": "c0330",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show an airplane wing?"
+ },
+ {
+  "id": "c0331",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a wooden spoon?"
+ },
+ {
+  "id": "c0332",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a wool?"
+ },
+ {
+  "id": "c0333",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a shipwreck?"
+ },
+ {
+  "id": "c0334",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a sailboat?"
+ },
+ {
+  "id": "c0335",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a comic book?"
+ },
+ {
+  "id": "c0336",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a traffic or street sign?"
+ },
+ {
+  "id": "c0337",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a traffic light?"
+ },
+ {
+  "id": "c0338",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show an ice cream?"
+ },
+ {
+  "id": "c0339",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a popsicle?"
+ },
+ {
+  "id": "c0340",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a bagel?"
+ },
+ {
+  "id": "c0341",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a pretzel?"
+ },
+ {
+  "id": "c0342",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a cheeseburger?"
+ },
+ {
+  "id": "c0343",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a hot dog?"
+ },
+ {
+  "id": "c0344",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a mashed potatoes?"
+ },
+ {
+  "id": "c0345",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a cabbage?"
+ },
+ {
+  "id": "c0346",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a broccoli?"
+ },
+ {
+  "id": "c0347",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a cauliflower?"
+ },
+ {
+  "id": "c0348",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a cucumber?"
+ },
+ {
+  "id": "c0349",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a bell pepper?"
+ },
+ {
+  "id": "c0350",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a mushroom?"
+ },
+ {
+  "id": "c0351",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a strawberry?"
+ },
+ {
+  "id": "c0352",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a lemon?"
+ },
+ {
+  "id": "c0353",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a pineapple?"
+ },
+ {
+  "id": "c0354",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a banana?"
+ },
+ {
+  "id": "c0355",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a hay?"
+ },
+ {
+  "id": "c0356",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a chocolate syrup?"
+ },
+ {
+  "id": "c0357",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a dough?"
+ },
+ {
+  "id": "c0358",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a pizza?"
+ },
+ {
+  "id": "c0359",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a burrito?"
+ },
+ {
+  "id": "c0360",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a red wine?"
+ },
+ {
+  "id": "c0361",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a tea cup?"
+ },
+ {
+  "id": "c0362",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a cliff?"
+ },
+ {
+  "id": "c0363",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a valley?"
+ },
+ {
+  "id": "c0364",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a volcano?"
+ },
+ {
+  "id": "c0365",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a baseball player?"
+ },
+ {
+  "id": "c0366",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a scuba diver?"
+ },
+ {
+  "id": "c0367",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a daisy?"
+ },
+ {
+  "id": "c0368",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a corn?"
+ },
+ {
+  "id": "c0369",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show an acorn?"
+ },
+ {
+  "id": "c0370",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a corn cob?"
+ },
+ {
+  "id": "c0371",
+  "source": "ImageNet classes (open_clip)",
+  "question": "Does this icon show a toilet paper?"
+ },
+ {
+  "id": "c0372",
+  "source": "icon tags",
+  "question": "Does this icon show a flag?"
+ },
+ {
+  "id": "c0373",
+  "source": "icon tags",
+  "question": "Does this icon show an arrow?"
+ },
+ {
+  "id": "c0374",
+  "source": "icon tags",
+  "question": "Does this icon show a face?"
+ },
+ {
+  "id": "c0375",
+  "source": "icon tags",
+  "question": "Does this icon show a man?"
+ },
+ {
+  "id": "c0376",
+  "source": "icon tags",
+  "question": "Does this icon show a woman?"
+ },
+ {
+  "id": "c0377",
+  "source": "icon tags",
+  "question": "Does this icon show a square?"
+ },
+ {
+  "id": "c0378",
+  "source": "icon tags",
+  "question": "Does this icon show a hand?"
+ },
+ {
+  "id": "c0379",
+  "source": "icon tags",
+  "question": "Does this icon show a button?"
+ },
+ {
+  "id": "c0380",
+  "source": "icon tags",
+  "question": "Does this icon show an animal?"
+ },
+ {
+  "id": "c0381",
+  "source": "icon tags",
+  "question": "Does this icon show a check?"
+ },
+ {
+  "id": "c0382",
+  "source": "icon tags",
+  "question": "Does this icon show a food?"
+ },
+ {
+  "id": "c0383",
+  "source": "icon tags",
+  "question": "Does this icon show a circle?"
+ },
+ {
+  "id": "c0384",
+  "source": "icon tags",
+  "question": "Does this icon show a file?"
+ },
+ {
+  "id": "c0385",
+  "source": "icon tags",
+  "question": "Does this icon show a plus?"
+ },
+ {
+  "id": "c0386",
+  "source": "icon tags",
+  "question": "Does this icon show a water?"
+ },
+ {
+  "id": "c0387",
+  "source": "icon tags",
+  "question": "Does this icon show a heart?"
+ },
+ {
+  "id": "c0388",
+  "source": "icon tags",
+  "question": "Does this icon show a clock?"
+ },
+ {
+  "id": "c0389",
+  "source": "icon tags",
+  "question": "Does this icon show a letter?"
+ },
+ {
+  "id": "c0390",
+  "source": "icon tags",
+  "question": "Does this icon show a building?"
+ },
+ {
+  "id": "c0391",
+  "source": "icon tags",
+  "question": "Does this icon show a money?"
+ },
+ {
+  "id": "c0392",
+  "source": "icon tags",
+  "question": "Does this icon show a line?"
+ },
+ {
+  "id": "c0393",
+  "source": "icon tags",
+  "question": "Does this icon show a mark?"
+ },
+ {
+  "id": "c0394",
+  "source": "icon tags",
+  "question": "Does this icon show a minus?"
+ },
+ {
+  "id": "c0395",
+  "source": "icon tags",
+  "question": "Does this icon show a child?"
+ },
+ {
+  "id": "c0396",
+  "source": "icon tags",
+  "question": "Does this icon show a computer?"
+ },
+ {
+  "id": "c0397",
+  "source": "icon tags",
+  "question": "Does this icon show a book?"
+ },
+ {
+  "id": "c0398",
+  "source": "icon tags",
+  "question": "Does this icon show a document?"
+ },
+ {
+  "id": "c0399",
+  "source": "icon tags",
+  "question": "Does this icon show an alarm?"
+ },
+ {
+  "id": "c0400",
+  "source": "icon tags",
+  "question": "Does this icon show a box?"
+ },
+ {
+  "id": "c0401",
+  "source": "icon tags",
+  "question": "Does this icon show a currency?"
+ },
+ {
+  "id": "c0402",
+  "source": "icon tags",
+  "question": "Does this icon show a date?"
+ },
+ {
+  "id": "c0403",
+  "source": "icon tags",
+  "question": "Does this icon show a sign?"
+ },
+ {
+  "id": "c0404",
+  "source": "icon tags",
+  "question": "Does this icon show a human?"
+ },
+ {
+  "id": "c0405",
+  "source": "icon tags",
+  "question": "Does this icon show a boy?"
+ },
+ {
+  "id": "c0406",
+  "source": "icon tags",
+  "question": "Does this icon show a girl?"
+ },
+ {
+  "id": "c0407",
+  "source": "icon tags",
+  "question": "Does this icon show a folder?"
+ },
+ {
+  "id": "c0408",
+  "source": "icon tags",
+  "question": "Does this icon show a paper?"
+ },
+ {
+  "id": "c0409",
+  "source": "icon tags",
+  "question": "Does this icon show a plant?"
+ },
+ {
+  "id": "c0410",
+  "source": "icon tags",
+  "question": "Does this icon show a tool?"
+ },
+ {
+  "id": "c0411",
+  "source": "icon tags",
+  "question": "Does this icon show a signal?"
+ },
+ {
+  "id": "c0412",
+  "source": "icon tags",
+  "question": "Does this icon show a screen?"
+ },
+ {
+  "id": "c0413",
+  "source": "icon tags",
+  "question": "Does this icon show a keyboard?"
+ },
+ {
+  "id": "c0414",
+  "source": "icon tags",
+  "question": "Does this icon show a cloud?"
+ },
+ {
+  "id": "c0415",
+  "source": "icon tags",
+  "question": "Does this icon show a chart?"
+ },
+ {
+  "id": "c0416",
+  "source": "icon tags",
+  "question": "Does this icon show a gesture?"
+ },
+ {
+  "id": "c0417",
+  "source": "icon tags",
+  "question": "Does this icon show a camera?"
+ },
+ {
+  "id": "c0418",
+  "source": "icon tags",
+  "question": "Does this icon show a browser?"
+ },
+ {
+  "id": "c0419",
+  "source": "icon tags",
+  "question": "Does this icon show a panel?"
+ },
+ {
+  "id": "c0420",
+  "source": "icon tags",
+  "question": "Does this icon show a star?"
+ },
+ {
+  "id": "c0421",
+  "source": "icon tags",
+  "question": "Does this icon show a light?"
+ },
+ {
+  "id": "c0422",
+  "source": "icon tags",
+  "question": "Does this icon show a speech bubble?"
+ },
+ {
+  "id": "c0423",
+  "source": "icon tags",
+  "question": "Does this icon show a badge?"
+ },
+ {
+  "id": "c0424",
+  "source": "icon tags",
+  "question": "Does this icon show an ocean?"
+ },
+ {
+  "id": "c0425",
+  "source": "icon tags",
+  "question": "Does this icon show a sea?"
+ },
+ {
+  "id": "c0426",
+  "source": "icon tags",
+  "question": "Does this icon show a graph?"
+ },
+ {
+  "id": "c0427",
+  "source": "icon tags",
+  "question": "Does this icon show a watch?"
+ },
+ {
+  "id": "c0428",
+  "source": "icon tags",
+  "question": "Does this icon show a phone?"
+ },
+ {
+  "id": "c0429",
+  "source": "icon tags",
+  "question": "Does this icon show a marker?"
+ },
+ {
+  "id": "c0430",
+  "source": "icon tags",
+  "question": "Does this icon show a tick?"
+ },
+ {
+  "id": "c0431",
+  "source": "icon tags",
+  "question": "Does this icon show a restaurant?"
+ },
+ {
+  "id": "c0432",
+  "source": "icon tags",
+  "question": "Does this icon show a map?"
+ },
+ {
+  "id": "c0433",
+  "source": "icon tags",
+  "question": "Does this icon show an eye?"
+ },
+ {
+  "id": "c0434",
+  "source": "icon tags",
+  "question": "Does this icon show a calendar?"
+ },
+ {
+  "id": "c0435",
+  "source": "icon tags",
+  "question": "Does this icon show a chevron?"
+ },
+ {
+  "id": "c0436",
+  "source": "icon tags",
+  "question": "Does this icon show a card?"
+ },
+ {
+  "id": "c0437",
+  "source": "icon tags",
+  "question": "Does this icon show a voucher?"
+ },
+ {
+  "id": "c0438",
+  "source": "icon tags",
+  "question": "Does this icon show a diagram?"
+ },
+ {
+  "id": "c0439",
+  "source": "icon tags",
+  "question": "Does this icon show a lens?"
+ },
+ {
+  "id": "c0440",
+  "source": "icon tags",
+  "question": "Does this icon show a cog?"
+ },
+ {
+  "id": "c0441",
+  "source": "icon tags",
+  "question": "Does this icon show a mail?"
+ },
+ {
+  "id": "c0442",
+  "source": "icon tags",
+  "question": "Does this icon show a ball?"
+ },
+ {
+  "id": "c0443",
+  "source": "icon tags",
+  "question": "Does this icon show a sun?"
+ },
+ {
+  "id": "c0444",
+  "source": "icon tags",
+  "question": "Does this icon show a mouse?"
+ },
+ {
+  "id": "c0445",
+  "source": "icon tags",
+  "question": "Does this icon show a pen?"
+ },
+ {
+  "id": "c0446",
+  "source": "icon tags",
+  "question": "Does this icon show an office?"
+ },
+ {
+  "id": "c0447",
+  "source": "icon tags",
+  "question": "Does this icon show a key?"
+ },
+ {
+  "id": "c0448",
+  "source": "icon tags",
+  "question": "Does this icon show a pin?"
+ },
+ {
+  "id": "c0449",
+  "source": "icon tags",
+  "question": "Does this icon show a fire?"
+ },
+ {
+  "id": "c0450",
+  "source": "icon tags",
+  "question": "Does this icon show a finger?"
+ },
+ {
+  "id": "c0451",
+  "source": "icon tags",
+  "question": "Does this icon show a grid?"
+ },
+ {
+  "id": "c0452",
+  "source": "icon tags",
+  "question": "Does this icon show a note?"
+ },
+ {
+  "id": "c0453",
+  "source": "icon tags",
+  "question": "Does this icon show a film?"
+ },
+ {
+  "id": "c0454",
+  "source": "icon tags",
+  "question": "Does this icon show a lock?"
+ },
+ {
+  "id": "c0455",
+  "source": "icon tags",
+  "question": "Does this icon show a dot?"
+ },
+ {
+  "id": "c0456",
+  "source": "icon tags",
+  "question": "Does this icon show a mouth?"
+ },
+ {
+  "id": "c0457",
+  "source": "icon tags",
+  "question": "Does this icon show a home?"
+ },
+ {
+  "id": "c0458",
+  "source": "icon tags",
+  "question": "Does this icon show a notes?"
+ },
+ {
+  "id": "c0459",
+  "source": "icon tags",
+  "question": "Does this icon show a library?"
+ },
+ {
+  "id": "c0460",
+  "source": "icon tags",
+  "question": "Does this icon show an eyes?"
+ },
+ {
+  "id": "c0461",
+  "source": "icon tags",
+  "question": "Does this icon show a fairy?"
+ },
+ {
+  "id": "c0462",
+  "source": "icon tags",
+  "question": "Does this icon show a dessert?"
+ },
+ {
+  "id": "c0463",
+  "source": "icon tags",
+  "question": "Does this icon show a table?"
+ },
+ {
+  "id": "c0464",
+  "source": "icon tags",
+  "question": "Does this icon show a monitor?"
+ },
+ {
+  "id": "c0465",
+  "source": "icon tags",
+  "question": "Does this icon show a logo?"
+ },
+ {
+  "id": "c0466",
+  "source": "icon tags",
+  "question": "Does this icon show a pride flag?"
+ },
+ {
+  "id": "c0467",
+  "source": "icon tags",
+  "question": "Does this icon show a pointer?"
+ },
+ {
+  "id": "c0468",
+  "source": "icon tags",
+  "question": "Does this icon show a stationery?"
+ },
+ {
+  "id": "c0469",
+  "source": "icon tags",
+  "question": "Does this icon show a tree?"
+ },
+ {
+  "id": "c0470",
+  "source": "icon tags",
+  "question": "Does this icon show a fruit?"
+ },
+ {
+  "id": "c0471",
+  "source": "icon tags",
+  "question": "Does this icon show a desktop?"
+ },
+ {
+  "id": "c0472",
+  "source": "icon tags",
+  "question": "Does this icon show a package?"
+ },
+ {
+  "id": "c0473",
+  "source": "icon tags",
+  "question": "Does this icon show a shield?"
+ },
+ {
+  "id": "c0474",
+  "source": "icon tags",
+  "question": "Does this icon show a device?"
+ },
+ {
+  "id": "c0475",
+  "source": "icon tags",
+  "question": "Does this icon show a drawer?"
+ },
+ {
+  "id": "c0476",
+  "source": "icon tags",
+  "question": "Does this icon show a head?"
+ },
+ {
+  "id": "c0477",
+  "source": "icon tags",
+  "question": "Does this icon show a boat?"
+ },
+ {
+  "id": "c0478",
+  "source": "icon tags",
+  "question": "Does this icon show a bird?"
+ },
+ {
+  "id": "c0479",
+  "source": "icon tags",
+  "question": "Does this icon show a beverage?"
+ },
+ {
+  "id": "c0480",
+  "source": "icon tags",
+  "question": "Does this icon show a vehicle?"
+ },
+ {
+  "id": "c0481",
+  "source": "icon tags",
+  "question": "Does this icon show a bookmark?"
+ },
+ {
+  "id": "c0482",
+  "source": "icon tags",
+  "question": "Does this icon show a plane?"
+ },
+ {
+  "id": "c0483",
+  "source": "icon tags",
+  "question": "Does this icon show a bar?"
+ },
+ {
+  "id": "c0484",
+  "source": "icon tags",
+  "question": "Does this icon show a photo?"
+ },
+ {
+  "id": "c0485",
+  "source": "icon tags",
+  "question": "Does this icon show a bank?"
+ },
+ {
+  "id": "c0486",
+  "source": "icon tags",
+  "question": "Does this icon show a bill?"
+ },
+ {
+  "id": "c0487",
+  "source": "icon tags",
+  "question": "Does this icon show a college?"
+ },
+ {
+  "id": "c0488",
+  "source": "icon tags",
+  "question": "Does this icon show a menu?"
+ },
+ {
+  "id": "c0489",
+  "source": "icon tags",
+  "question": "Does this icon show a medicine?"
+ },
+ {
+  "id": "c0490",
+  "source": "icon tags",
+  "question": "Does this icon show a cross?"
+ },
+ {
+  "id": "c0491",
+  "source": "icon tags",
+  "question": "Does this icon show a mountain?"
+ },
+ {
+  "id": "c0492",
+  "source": "icon tags",
+  "question": "Does this icon show a glass?"
+ },
+ {
+  "id": "c0493",
+  "source": "icon tags",
+  "question": "Does this icon show a container?"
+ },
+ {
+  "id": "c0494",
+  "source": "icon tags",
+  "question": "Does this icon show a tag?"
+ },
+ {
+  "id": "c0495",
+  "source": "icon tags",
+  "question": "Does this icon show a pencil?"
+ },
+ {
+  "id": "c0496",
+  "source": "icon tags",
+  "question": "Does this icon show a beach?"
+ },
+ {
+  "id": "c0497",
+  "source": "icon tags",
+  "question": "Does this icon show a rock?"
+ },
+ {
+  "id": "c0498",
+  "source": "icon tags",
+  "question": "Does this icon show a picture?"
+ },
+ {
+  "id": "c0499",
+  "source": "icon tags",
+  "question": "Does this icon show a triangle?"
+ },
+ {
+  "id": "c0500",
+  "source": "icon tags",
+  "question": "Does this icon show an arrows?"
+ },
+ {
+  "id": "c0501",
+  "source": "icon tags",
+  "question": "Does this icon show a meal?"
+ },
+ {
+  "id": "c0502",
+  "source": "icon tags",
+  "question": "Does this icon show a high school?"
+ },
+ {
+  "id": "c0503",
+  "source": "icon tags",
+  "question": "Does this icon show a gear?"
+ },
+ {
+  "id": "c0504",
+  "source": "icon tags",
+  "question": "Does this icon show a block?"
+ },
+ {
+  "id": "c0505",
+  "source": "icon tags",
+  "question": "Does this icon show a wheelchair?"
+ },
+ {
+  "id": "c0506",
+  "source": "icon tags",
+  "question": "Does this icon show a flower?"
+ },
+ {
+  "id": "c0507",
+  "source": "icon tags",
+  "question": "Does this icon show a ship?"
+ },
+ {
+  "id": "c0508",
+  "source": "icon tags",
+  "question": "Does this icon show an instrument?"
+ },
+ {
+  "id": "c0509",
+  "source": "icon tags",
+  "question": "Does this icon show a page?"
+ },
+ {
+  "id": "c0510",
+  "source": "icon tags",
+  "question": "Does this icon show a link?"
+ },
+ {
+  "id": "c0511",
+  "source": "icon tags",
+  "question": "Does this icon show a lines?"
+ },
+ {
+  "id": "c0512",
+  "source": "icon tags",
+  "question": "Does this icon show a rectangle?"
+ },
+ {
+  "id": "c0513",
+  "source": "icon tags",
+  "question": "Does this icon show a stack?"
+ },
+ {
+  "id": "c0514",
+  "source": "icon tags",
+  "question": "Does this icon show a cat?"
+ },
+ {
+  "id": "c0515",
+  "source": "icon tags",
+  "question": "Does this icon show a lab?"
+ },
+ {
+  "id": "c0516",
+  "source": "icon tags",
+  "question": "Does this icon show a scale?"
+ },
+ {
+  "id": "c0517",
+  "source": "icon tags",
+  "question": "Does this icon show an insect?"
+ },
+ {
+  "id": "c0518",
+  "source": "icon tags",
+  "question": "Does this icon show a bell?"
+ },
+ {
+  "id": "c0519",
+  "source": "icon tags",
+  "question": "Does this icon show a moon?"
+ },
+ {
+  "id": "c0520",
+  "source": "icon tags",
+  "question": "Does this icon show a track?"
+ },
+ {
+  "id": "c0521",
+  "source": "icon tags",
+  "question": "Does this icon show a board?"
+ },
+ {
+  "id": "c0522",
+  "source": "icon tags",
+  "question": "Does this icon show a bathroom?"
+ },
+ {
+  "id": "c0523",
+  "source": "icon tags",
+  "question": "Does this icon show a coronavirus?"
+ },
+ {
+  "id": "c0524",
+  "source": "icon tags",
+  "question": "Does this icon show a hospital?"
+ },
+ {
+  "id": "c0525",
+  "source": "icon tags",
+  "question": "Does this icon show a switch?"
+ },
+ {
+  "id": "c0526",
+  "source": "icon tags",
+  "question": "Does this icon show a blocks?"
+ },
+ {
+  "id": "c0527",
+  "source": "icon tags",
+  "question": "Does this icon show a server?"
+ },
+ {
+  "id": "c0528",
+  "source": "icon tags",
+  "question": "Does this icon show a crest?"
+ },
+ {
+  "id": "c0529",
+  "source": "icon tags",
+  "question": "Does this icon show a columns?"
+ },
+ {
+  "id": "c0530",
+  "source": "icon tags",
+  "question": "Does this icon show a teeth?"
+ },
+ {
+  "id": "c0531",
+  "source": "icon tags",
+  "question": "Does this icon show a hat?"
+ },
+ {
+  "id": "c0532",
+  "source": "icon tags",
+  "question": "Does this icon show a baby?"
+ },
+ {
+  "id": "c0533",
+  "source": "icon tags",
+  "question": "Does this icon show a fish?"
+ },
+ {
+  "id": "c0534",
+  "source": "icon tags",
+  "question": "Does this icon show a leaf?"
+ },
+ {
+  "id": "c0535",
+  "source": "icon tags",
+  "question": "Does this icon show a globe?"
+ },
+ {
+  "id": "c0536",
+  "source": "icon tags",
+  "question": "Does this icon show a medal?"
+ },
+ {
+  "id": "c0537",
+  "source": "icon tags",
+  "question": "Does this icon show a dice?"
+ },
+ {
+  "id": "c0538",
+  "source": "icon tags",
+  "question": "Does this icon show a radio?"
+ },
+ {
+  "id": "c0539",
+  "source": "icon tags",
+  "question": "Does this icon show a record?"
+ },
+ {
+  "id": "c0540",
+  "source": "icon tags",
+  "question": "Does this icon show a furniture?"
+ },
+ {
+  "id": "c0541",
+  "source": "icon tags",
+  "question": "Does this icon show a toilet?"
+ },
+ {
+  "id": "c0542",
+  "source": "icon tags",
+  "question": "Does this icon show a keycap?"
+ },
+ {
+  "id": "c0543",
+  "source": "icon tags",
+  "question": "Does this icon show a letters?"
+ },
+ {
+  "id": "c0544",
+  "source": "icon tags",
+  "question": "Does this icon show a chevrons?"
+ },
+ {
+  "id": "c0545",
+  "source": "icon tags",
+  "question": "Does this icon show an external display?"
+ },
+ {
+  "id": "c0546",
+  "source": "icon tags",
+  "question": "Does this icon show a constellation?"
+ },
+ {
+  "id": "c0547",
+  "source": "icon tags",
+  "question": "Does this icon show a decoration?"
+ },
+ {
+  "id": "c0548",
+  "source": "icon tags",
+  "question": "Does this icon show a point?"
+ },
+ {
+  "id": "c0549",
+  "source": "icon tags",
+  "question": "Does this icon show an ear?"
+ },
+ {
+  "id": "c0550",
+  "source": "icon tags",
+  "question": "Does this icon show a suit?"
+ },
+ {
+  "id": "c0551",
+  "source": "icon tags",
+  "question": "Does this icon show a pet?"
+ },
+ {
+  "id": "c0552",
+  "source": "icon tags",
+  "question": "Does this icon show a house?"
+ },
+ {
+  "id": "c0553",
+  "source": "icon tags",
+  "question": "Does this icon show a vegetable?"
+ },
+ {
+  "id": "c0554",
+  "source": "icon tags",
+  "question": "Does this icon show an airplane?"
+ },
+ {
+  "id": "c0555",
+  "source": "icon tags",
+  "question": "Does this icon show a cell?"
+ },
+ {
+  "id": "c0556",
+  "source": "icon tags",
+  "question": "Does this icon show a mobile?"
+ },
+ {
+  "id": "c0557",
+  "source": "icon tags",
+  "question": "Does this icon show a battery?"
+ },
+ {
+  "id": "c0558",
+  "source": "icon tags",
+  "question": "Does this icon show a notebook?"
+ },
+ {
+  "id": "c0559",
+  "source": "icon tags",
+  "question": "Does this icon show a pages?"
+ },
+ {
+  "id": "c0560",
+  "source": "icon tags",
+  "question": "Does this icon show a clipboard?"
+ },
+ {
+  "id": "c0561",
+  "source": "icon tags",
+  "question": "Does this icon show a dish?"
+ },
+ {
+  "id": "c0562",
+  "source": "icon tags",
+  "question": "Does this icon show a wifi?"
+ },
+ {
+  "id": "c0563",
+  "source": "icon tags",
+  "question": "Does this icon show an album?"
+ },
+ {
+  "id": "c0564",
+  "source": "icon tags",
+  "question": "Does this icon show a cart?"
+ },
+ {
+  "id": "c0565",
+  "source": "icon tags",
+  "question": "Does this icon show a star sign?"
+ },
+ {
+  "id": "c0566",
+  "source": "icon tags",
+  "question": "Does this icon show a xoxo?"
+ },
+ {
+  "id": "c0567",
+  "source": "icon tags",
+  "question": "Does this icon show a dollar?"
+ },
+ {
+  "id": "c0568",
+  "source": "icon tags",
+  "question": "Does this icon show a blood?"
+ },
+ {
+  "id": "c0569",
+  "source": "icon tags",
+  "question": "Does this icon show a magnifying glass?"
+ },
+ {
+  "id": "c0570",
+  "source": "icon tags",
+  "question": "Does this icon show a handle?"
+ },
+ {
+  "id": "c0571",
+  "source": "icon tags",
+  "question": "Does this icon show a clothing?"
+ },
+ {
+  "id": "c0572",
+  "source": "icon tags",
+  "question": "Does this icon show a root?"
+ },
+ {
+  "id": "c0573",
+  "source": "icon tags",
+  "question": "Does this icon show a store?"
+ },
+ {
+  "id": "c0574",
+  "source": "icon tags",
+  "question": "Does this icon show an earth?"
+ },
+ {
+  "id": "c0575",
+  "source": "icon tags",
+  "question": "Does this icon show a school?"
+ },
+ {
+  "id": "c0576",
+  "source": "icon tags",
+  "question": "Does this icon show a bag?"
+ },
+ {
+  "id": "c0577",
+  "source": "icon tags",
+  "question": "Does this icon show a timer?"
+ },
+ {
+  "id": "c0578",
+  "source": "icon tags",
+  "question": "Does this icon show a rain?"
+ },
+ {
+  "id": "c0579",
+  "source": "icon tags",
+  "question": "Does this icon show a ticket?"
+ },
+ {
+  "id": "c0580",
+  "source": "icon tags",
+  "question": "Does this icon show a frame?"
+ },
+ {
+  "id": "c0581",
+  "source": "icon tags",
+  "question": "Does this icon show a scroll?"
+ },
+ {
+  "id": "c0582",
+  "source": "icon tags",
+  "question": "Does this icon show a cash?"
+ },
+ {
+  "id": "c0583",
+  "source": "icon tags",
+  "question": "Does this icon show a banknote?"
+ },
+ {
+  "id": "c0584",
+  "source": "icon tags",
+  "question": "Does this icon show a receipt?"
+ },
+ {
+  "id": "c0585",
+  "source": "icon tags",
+  "question": "Does this icon show a magazine?"
+ },
+ {
+  "id": "c0586",
+  "source": "icon tags",
+  "question": "Does this icon show a smoke?"
+ },
+ {
+  "id": "c0587",
+  "source": "icon tags",
+  "question": "Does this icon show a glasses?"
+ },
+ {
+  "id": "c0588",
+  "source": "icon tags",
+  "question": "Does this icon show a creature?"
+ },
+ {
+  "id": "c0589",
+  "source": "icon tags",
+  "question": "Does this icon show a metal?"
+ },
+ {
+  "id": "c0590",
+  "source": "icon tags",
+  "question": "Does this icon show a microphone?"
+ },
+ {
+  "id": "c0591",
+  "source": "icon tags",
+  "question": "Does this icon show a lamp?"
+ },
+ {
+  "id": "c0592",
+  "source": "icon tags",
+  "question": "Does this icon show a ring?"
+ },
+ {
+  "id": "c0593",
+  "source": "icon tags",
+  "question": "Does this icon show a post?"
+ },
+ {
+  "id": "c0594",
+  "source": "icon tags",
+  "question": "Does this icon show a car?"
+ },
+ {
+  "id": "c0595",
+  "source": "icon tags",
+  "question": "Does this icon show a target?"
+ },
+ {
+  "id": "c0596",
+  "source": "icon tags",
+  "question": "Does this icon show a speaker?"
+ },
+ {
+  "id": "c0597",
+  "source": "icon tags",
+  "question": "Does this icon show a slash?"
+ },
+ {
+  "id": "c0598",
+  "source": "icon tags",
+  "question": "Does this icon show a smartphone?"
+ },
+ {
+  "id": "c0599",
+  "source": "icon tags",
+  "question": "Does this icon show a sheet?"
+ },
+ {
+  "id": "c0600",
+  "source": "icon tags",
+  "question": "Does this icon show a window?"
+ },
+ {
+  "id": "c0601",
+  "source": "icon tags",
+  "question": "Does this icon show a license?"
+ },
+ {
+  "id": "c0602",
+  "source": "icon tags",
+  "question": "Does this icon show a station?"
+ },
+ {
+  "id": "c0603",
+  "source": "icon tags",
+  "question": "Does this icon show an archive?"
+ },
+ {
+  "id": "c0604",
+  "source": "icon tags",
+  "question": "Does this icon show a queue?"
+ },
+ {
+  "id": "c0605",
+  "source": "icon tags",
+  "question": "Does this icon show a path?"
+ },
+ {
+  "id": "c0606",
+  "source": "icon tags",
+  "question": "Does this icon show an exclamation mark?"
+ },
+ {
+  "id": "c0607",
+  "source": "icon tags",
+  "question": "Does this icon show a novel?"
+ },
+ {
+  "id": "c0608",
+  "source": "icon tags",
+  "question": "Does this icon show a column?"
+ },
+ {
+  "id": "c0609",
+  "source": "icon tags",
+  "question": "Does this icon show a tear?"
+ },
+ {
+  "id": "c0610",
+  "source": "icon tags",
+  "question": "Does this icon show a hands?"
+ },
+ {
+  "id": "c0611",
+  "source": "icon tags",
+  "question": "Does this icon show a mask?"
+ },
+ {
+  "id": "c0612",
+  "source": "icon tags",
+  "question": "Does this icon show a monster?"
+ },
+ {
+  "id": "c0613",
+  "source": "icon tags",
+  "question": "Does this icon show an exclamation?"
+ },
+ {
+  "id": "c0614",
+  "source": "icon tags",
+  "question": "Does this icon show a silver?"
+ },
+ {
+  "id": "c0615",
+  "source": "icon tags",
+  "question": "Does this icon show a fist?"
+ },
+ {
+  "id": "c0616",
+  "source": "icon tags",
+  "question": "Does this icon show a scales?"
+ },
+ {
+  "id": "c0617",
+  "source": "icon tags",
+  "question": "Does this icon show a brush?"
+ },
+ {
+  "id": "c0618",
+  "source": "icon tags",
+  "question": "Does this icon show a magnifier?"
+ },
+ {
+  "id": "c0619",
+  "source": "icon tags",
+  "question": "Does this icon show a snow?"
+ },
+ {
+  "id": "c0620",
+  "source": "icon tags",
+  "question": "Does this icon show a balance?"
+ },
+ {
+  "id": "c0621",
+  "source": "icon tags",
+  "question": "Does this icon show a garden?"
+ },
+ {
+  "id": "c0622",
+  "source": "icon tags",
+  "question": "Does this icon show a pot?"
+ },
+ {
+  "id": "c0623",
+  "source": "icon tags",
+  "question": "Does this icon show a weapon?"
+ },
+ {
+  "id": "c0624",
+  "source": "icon tags",
+  "question": "Does this icon show a gold?"
+ },
+ {
+  "id": "c0625",
+  "source": "icon tags",
+  "question": "Does this icon show a controller?"
+ },
+ {
+  "id": "c0626",
+  "source": "icon tags",
+  "question": "Does this icon show a diamond?"
+ },
+ {
+  "id": "c0627",
+  "source": "icon tags",
+  "question": "Does this icon show a plug?"
+ },
+ {
+  "id": "c0628",
+  "source": "icon tags",
+  "question": "Does this icon show a zero?"
+ },
+ {
+  "id": "c0629",
+  "source": "icon tags",
+  "question": "Does this icon show a ruler?"
+ },
+ {
+  "id": "c0630",
+  "source": "icon tags",
+  "question": "Does this icon show a restroom?"
+ },
+ {
+  "id": "c0631",
+  "source": "icon tags",
+  "question": "Does this icon show a baggage?"
+ },
+ {
+  "id": "c0632",
+  "source": "icon tags",
+  "question": "Does this icon show an ellipsis?"
+ },
+ {
+  "id": "c0633",
+  "source": "icon tags",
+  "question": "Does this icon show a tabletop?"
+ },
+ {
+  "id": "c0634",
+  "source": "icon tags",
+  "question": "Does this icon show a booklet?"
+ },
+ {
+  "id": "c0635",
+  "source": "icon tags",
+  "question": "Does this icon show a leaflet?"
+ },
+ {
+  "id": "c0636",
+  "source": "icon tags",
+  "question": "Does this icon show a pamphlet?"
+ },
+ {
+  "id": "c0637",
+  "source": "icon tags",
+  "question": "Does this icon show a counterfoil?"
+ },
+ {
+  "id": "c0638",
+  "source": "icon tags",
+  "question": "Does this icon show a floor?"
+ },
+ {
+  "id": "c0639",
+  "source": "icon tags",
+  "question": "Does this icon show a tongue?"
+ },
+ {
+  "id": "c0640",
+  "source": "icon tags",
+  "question": "Does this icon show an emoji?"
+ },
+ {
+  "id": "c0641",
+  "source": "icon tags",
+  "question": "Does this icon show a spiral?"
+ },
+ {
+  "id": "c0642",
+  "source": "icon tags",
+  "question": "Does this icon show a bow?"
+ },
+ {
+  "id": "c0643",
+  "source": "icon tags",
+  "question": "Does this icon show a hair?"
+ },
+ {
+  "id": "c0644",
+  "source": "icon tags",
+  "question": "Does this icon show a chef?"
+ },
+ {
+  "id": "c0645",
+  "source": "icon tags",
+  "question": "Does this icon show a rocket?"
+ },
+ {
+  "id": "c0646",
+  "source": "icon tags",
+  "question": "Does this icon show a firefighter?"
+ },
+ {
+  "id": "c0647",
+  "source": "icon tags",
+  "question": "Does this icon show a crown?"
+ },
+ {
+  "id": "c0648",
+  "source": "icon tags",
+  "question": "Does this icon show a wedding?"
+ },
+ {
+  "id": "c0649",
+  "source": "icon tags",
+  "question": "Does this icon show a cane?"
+ },
+ {
+  "id": "c0650",
+  "source": "icon tags",
+  "question": "Does this icon show a waves?"
+ },
+ {
+  "id": "c0651",
+  "source": "icon tags",
+  "question": "Does this icon show a bike?"
+ },
+ {
+  "id": "c0652",
+  "source": "icon tags",
+  "question": "Does this icon show a shell?"
+ },
+ {
+  "id": "c0653",
+  "source": "icon tags",
+  "question": "Does this icon show a wood?"
+ },
+ {
+  "id": "c0654",
+  "source": "icon tags",
+  "question": "Does this icon show a cake?"
+ },
+ {
+  "id": "c0655",
+  "source": "icon tags",
+  "question": "Does this icon show an ice?"
+ },
+ {
+  "id": "c0656",
+  "source": "icon tags",
+  "question": "Does this icon show a sugar?"
+ },
+ {
+  "id": "c0657",
+  "source": "icon tags",
+  "question": "Does this icon show a candy?"
+ },
+ {
+  "id": "c0658",
+  "source": "icon tags",
+  "question": "Does this icon show a planet?"
+ },
+ {
+  "id": "c0659",
+  "source": "icon tags",
+  "question": "Does this icon show a park?"
+ },
+ {
+  "id": "c0660",
+  "source": "icon tags",
+  "question": "Does this icon show a log?"
+ },
+ {
+  "id": "c0661",
+  "source": "icon tags",
+  "question": "Does this icon show a cable?"
+ },
+ {
+  "id": "c0662",
+  "source": "icon tags",
+  "question": "Does this icon show a slot?"
+ },
+ {
+  "id": "c0663",
+  "source": "icon tags",
+  "question": "Does this icon show a cards?"
+ },
+ {
+  "id": "c0664",
+  "source": "icon tags",
+  "question": "Does this icon show a telephone?"
+ },
+ {
+  "id": "c0665",
+  "source": "icon tags",
+  "question": "Does this icon show a briefcase?"
+ },
+ {
+  "id": "c0666",
+  "source": "icon tags",
+  "question": "Does this icon show a wall?"
+ },
+ {
+  "id": "c0667",
+  "source": "icon tags",
+  "question": "Does this icon show a port?"
+ },
+ {
+  "id": "c0668",
+  "source": "icon tags",
+  "question": "Does this icon show a console?"
+ },
+ {
+  "id": "c0669",
+  "source": "icon tags",
+  "question": "Does this icon show a gallery?"
+ },
+ {
+  "id": "c0670",
+  "source": "icon tags",
+  "question": "Does this icon show a vinyl?"
+ },
+ {
+  "id": "c0671",
+  "source": "icon tags",
+  "question": "Does this icon show a toolbar?"
+ },
+ {
+  "id": "c0672",
+  "source": "icon tags",
+  "question": "Does this icon show a layers?"
+ },
+ {
+  "id": "c0673",
+  "source": "icon tags",
+  "question": "Does this icon show a body?"
+ },
+ {
+  "id": "c0674",
+  "source": "icon tags",
+  "question": "Does this icon show a bone?"
+ },
+ {
+  "id": "c0675",
+  "source": "icon tags",
+  "question": "Does this icon show a sky?"
+ },
+ {
+  "id": "c0676",
+  "source": "icon tags",
+  "question": "Does this icon show a dash?"
+ },
+ {
+  "id": "c0677",
+  "source": "icon tags",
+  "question": "Does this icon show a balloon?"
+ },
+ {
+  "id": "c0678",
+  "source": "icon tags",
+  "question": "Does this icon show a bubble?"
+ },
+ {
+  "id": "c0679",
+  "source": "icon tags",
+  "question": "Does this icon show a wave?"
+ },
+ {
+  "id": "c0680",
+  "source": "icon tags",
+  "question": "Does this icon show an organ?"
+ },
+ {
+  "id": "c0681",
+  "source": "icon tags",
+  "question": "Does this icon show a factory?"
+ },
+ {
+  "id": "c0682",
+  "source": "icon tags",
+  "question": "Does this icon show a palette?"
+ },
+ {
+  "id": "c0683",
+  "source": "icon tags",
+  "question": "Does this icon show a witch?"
+ },
+ {
+  "id": "c0684",
+  "source": "icon tags",
+  "question": "Does this icon show a forest?"
+ },
+ {
+  "id": "c0685",
+  "source": "icon tags",
+  "question": "Does this icon show a pedestrian?"
+ },
+ {
+  "id": "c0686",
+  "source": "icon tags",
+  "question": "Does this icon show a manual?"
+ },
+ {
+  "id": "c0687",
+  "source": "icon tags",
+  "question": "Does this icon show a bicycle?"
+ },
+ {
+  "id": "c0688",
+  "source": "icon tags",
+  "question": "Does this icon show a hotel?"
+ },
+ {
+  "id": "c0689",
+  "source": "icon tags",
+  "question": "Does this icon show a babe?"
+ },
+ {
+  "id": "c0690",
+  "source": "icon tags",
+  "question": "Does this icon show a sand?"
+ },
+ {
+  "id": "c0691",
+  "source": "icon tags",
+  "question": "Does this icon show a cetacean?"
+ },
+ {
+  "id": "c0692",
+  "source": "icon tags",
+  "question": "Does this icon show a beer?"
+ },
+ {
+  "id": "c0693",
+  "source": "icon tags",
+  "question": "Does this icon show a stick?"
+ },
+ {
+  "id": "c0694",
+  "source": "icon tags",
+  "question": "Does this icon show a bottle?"
+ },
+ {
+  "id": "c0695",
+  "source": "icon tags",
+  "question": "Does this icon show a landscape?"
+ },
+ {
+  "id": "c0696",
+  "source": "icon tags",
+  "question": "Does this icon show a bus?"
+ },
+ {
+  "id": "c0697",
+  "source": "icon tags",
+  "question": "Does this icon show a traffic?"
+ },
+ {
+  "id": "c0698",
+  "source": "icon tags",
+  "question": "Does this icon show an aeroplane?"
+ },
+ {
+  "id": "c0699",
+  "source": "icon tags",
+  "question": "Does this icon show a tickets?"
+ },
+ {
+  "id": "c0700",
+  "source": "icon tags",
+  "question": "Does this icon show an award?"
+ },
+ {
+  "id": "c0701",
+  "source": "icon tags",
+  "question": "Does this icon show a stone?"
+ },
+ {
+  "id": "c0702",
+  "source": "icon tags",
+  "question": "Does this icon show a pawn?"
+ },
+ {
+  "id": "c0703",
+  "source": "icon tags",
+  "question": "Does this icon show a mic?"
+ },
+ {
+  "id": "c0704",
+  "source": "icon tags",
+  "question": "Does this icon show a disk?"
+ },
+ {
+  "id": "c0705",
+  "source": "icon tags",
+  "question": "Does this icon show a dvd?"
+ },
+ {
+  "id": "c0706",
+  "source": "icon tags",
+  "question": "Does this icon show a cinema?"
+ },
+ {
+  "id": "c0707",
+  "source": "icon tags",
+  "question": "Does this icon show a memo?"
+ },
+ {
+  "id": "c0708",
+  "source": "icon tags",
+  "question": "Does this icon show a notepad?"
+ },
+ {
+  "id": "c0709",
+  "source": "icon tags",
+  "question": "Does this icon show a trash?"
+ },
+ {
+  "id": "c0710",
+  "source": "icon tags",
+  "question": "Does this icon show a locked?"
+ },
+ {
+  "id": "c0711",
+  "source": "icon tags",
+  "question": "Does this icon show an ink?"
+ },
+ {
+  "id": "c0712",
+  "source": "icon tags",
+  "question": "Does this icon show a toolbox?"
+ },
+ {
+  "id": "c0713",
+  "source": "icon tags",
+  "question": "Does this icon show a step?"
+ },
+ {
+  "id": "c0714",
+  "source": "icon tags",
+  "question": "Does this icon show a bars?"
+ },
+ {
+  "id": "c0715",
+  "source": "icon tags",
+  "question": "Does this icon show a cursor?"
+ },
+ {
+  "id": "c0716",
+  "source": "icon tags",
+  "question": "Does this icon show a socket?"
+ },
+ {
+  "id": "c0717",
+  "source": "icon tags",
+  "question": "Does this icon show a dots?"
+ },
+ {
+  "id": "c0718",
+  "source": "icon tags",
+  "question": "Does this icon show a portfolio?"
+ },
+ {
+  "id": "c0719",
+  "source": "icon tags",
+  "question": "Does this icon show a wallet?"
+ },
+ {
+  "id": "c0720",
+  "source": "icon tags",
+  "question": "Does this icon show a menu bar?"
+ },
+ {
+  "id": "c0721",
+  "source": "icon tags",
+  "question": "Does this icon show a wavelength?"
+ },
+ {
+  "id": "c0722",
+  "source": "icon tags",
+  "question": "Does this icon show a hearts?"
+ },
+ {
+  "id": "c0723",
+  "source": "icon tags",
+  "question": "Does this icon show a frowning?"
+ },
+ {
+  "id": "c0724",
+  "source": "icon tags",
+  "question": "Does this icon show an orange?"
+ },
+ {
+  "id": "c0725",
+  "source": "icon tags",
+  "question": "Does this icon show a fingers?"
+ },
+ {
+  "id": "c0726",
+  "source": "icon tags",
+  "question": "Does this icon show a pound?"
+ },
+ {
+  "id": "c0727",
+  "source": "icon tags",
+  "question": "Does this icon show a foot?"
+ },
+ {
+  "id": "c0728",
+  "source": "icon tags",
+  "question": "Does this icon show a brain?"
+ },
+ {
+  "id": "c0729",
+  "source": "icon tags",
+  "question": "Does this icon show a lady?"
+ },
+ {
+  "id": "c0730",
+  "source": "icon tags",
+  "question": "Does this icon show a tablet?"
+ },
+ {
+  "id": "c0731",
+  "source": "icon tags",
+  "question": "Does this icon show a wizard?"
+ },
+ {
+  "id": "c0732",
+  "source": "icon tags",
+  "question": "Does this icon show a spa?"
+ },
+ {
+  "id": "c0733",
+  "source": "icon tags",
+  "question": "Does this icon show a desert?"
+ },
+ {
+  "id": "c0734",
+  "source": "icon tags",
+  "question": "Does this icon show an egg?"
+ },
+ {
+  "id": "c0735",
+  "source": "icon tags",
+  "question": "Does this icon show a whale?"
+ },
+ {
+  "id": "c0736",
+  "source": "icon tags",
+  "question": "Does this icon show a seafood?"
+ },
+ {
+  "id": "c0737",
+  "source": "icon tags",
+  "question": "Does this icon show a bug?"
+ },
+ {
+  "id": "c0738",
+  "source": "icon tags",
+  "question": "Does this icon show a web?"
+ },
+ {
+  "id": "c0739",
+  "source": "icon tags",
+  "question": "Does this icon show a branch?"
+ },
+ {
+  "id": "c0740",
+  "source": "icon tags",
+  "question": "Does this icon show a meat?"
+ },
+ {
+  "id": "c0741",
+  "source": "icon tags",
+  "question": "Does this icon show a chip?"
+ },
+ {
+  "id": "c0742",
+  "source": "icon tags",
+  "question": "Does this icon show a coffee?"
+ },
+ {
+  "id": "c0743",
+  "source": "icon tags",
+  "question": "Does this icon show a cup?"
+ },
+ {
+  "id": "c0744",
+  "source": "icon tags",
+  "question": "Does this icon show a wine?"
+ },
+ {
+  "id": "c0745",
+  "source": "icon tags",
+  "question": "Does this icon show a knife?"
+ },
+ {
+  "id": "c0746",
+  "source": "icon tags",
+  "question": "Does this icon show an umbrella?"
+ },
+ {
+  "id": "c0747",
+  "source": "icon tags",
+  "question": "Does this icon show a carousel?"
+ },
+ {
+  "id": "c0748",
+  "source": "icon tags",
+  "question": "Does this icon show a wheel?"
+ },
+ {
+  "id": "c0749",
+  "source": "icon tags",
+  "question": "Does this icon show a railway?"
+ },
+ {
+  "id": "c0750",
+  "source": "icon tags",
+  "question": "Does this icon show a drum?"
+ },
+ {
+  "id": "c0751",
+  "source": "icon tags",
+  "question": "Does this icon show a satellite?"
+ },
+ {
+  "id": "c0752",
+  "source": "icon tags",
+  "question": "Does this icon show a luggage?"
+ },
+ {
+  "id": "c0753",
+  "source": "icon tags",
+  "question": "Does this icon show a lightning?"
+ },
+ {
+  "id": "c0754",
+  "source": "icon tags",
+  "question": "Does this icon show a disc?"
+ },
+ {
+  "id": "c0755",
+  "source": "icon tags",
+  "question": "Does this icon show a board game?"
+ },
+ {
+  "id": "c0756",
+  "source": "icon tags",
+  "question": "Does this icon show a mirror?"
+ },
+ {
+  "id": "c0757",
+  "source": "icon tags",
+  "question": "Does this icon show a chess?"
+ },
+ {
+  "id": "c0758",
+  "source": "icon tags",
+  "question": "Does this icon show a television?"
+ },
+ {
+  "id": "c0759",
+  "source": "icon tags",
+  "question": "Does this icon show an euro?"
+ },
+ {
+  "id": "c0760",
+  "source": "icon tags",
+  "question": "Does this icon show a scissors?"
+ },
+ {
+  "id": "c0761",
+  "source": "icon tags",
+  "question": "Does this icon show a case?"
+ },
+ {
+  "id": "c0762",
+  "source": "icon tags",
+  "question": "Does this icon show a staff?"
+ },
+ {
+  "id": "c0763",
+  "source": "icon tags",
+  "question": "Does this icon show a paint?"
+ },
+ {
+  "id": "c0764",
+  "source": "icon tags",
+  "question": "Does this icon show a germany?"
+ },
+ {
+  "id": "c0765",
+  "source": "icon tags",
+  "question": "Does this icon show a cast?"
+ },
+ {
+  "id": "c0766",
+  "source": "icon tags",
+  "question": "Does this icon show an exit?"
+ },
+ {
+  "id": "c0767",
+  "source": "icon tags",
+  "question": "Does this icon show a circuit?"
+ },
+ {
+  "id": "c0768",
+  "source": "icon tags",
+  "question": "Does this icon show a barcode?"
+ },
+ {
+  "id": "c0769",
+  "source": "icon tags",
+  "question": "Does this icon show a tower?"
+ },
+ {
+  "id": "c0770",
+  "source": "icon tags",
+  "question": "Does this icon show a dock?"
+ },
+ {
+  "id": "c0771",
+  "source": "icon tags",
+  "question": "Does this icon show a connector?"
+ },
+ {
+  "id": "c0772",
+  "source": "icon tags",
+  "question": "Does this icon show a curve?"
+ },
+ {
+  "id": "c0773",
+  "source": "icon tags",
+  "question": "Does this icon show a synthesizer?"
+ },
+ {
+  "id": "c0774",
+  "source": "icon tags",
+  "question": "Does this icon show a loader?"
+ },
+ {
+  "id": "c0775",
+  "source": "icon tags",
+  "question": "Does this icon show a pictures?"
+ },
+ {
+  "id": "c0776",
+  "source": "icon tags",
+  "question": "Does this icon show a landmark?"
+ },
+ {
+  "id": "c0777",
+  "source": "icon tags",
+  "question": "Does this icon show a journal?"
+ },
+ {
+  "id": "c0778",
+  "source": "icon tags",
+  "question": "Does this icon show a diary?"
+ },
+ {
+  "id": "c0779",
+  "source": "icon tags",
+  "question": "Does this icon show a knight?"
+ },
+ {
+  "id": "c0780",
+  "source": "icon tags",
+  "question": "Does this icon show a drawers?"
+ },
+ {
+  "id": "c0781",
+  "source": "icon tags",
+  "question": "Does this icon show a stream?"
+ },
+ {
+  "id": "c0782",
+  "source": "icon tags",
+  "question": "Does this icon show a snack?"
+ },
+ {
+  "id": "c0783",
+  "source": "icon tags",
+  "question": "Does this icon show a sweat?"
+ },
+ {
+  "id": "c0784",
+  "source": "icon tags",
+  "question": "Does this icon show a zip?"
+ },
+ {
+  "id": "c0785",
+  "source": "icon tags",
+  "question": "Does this icon show a nose?"
+ },
+ {
+  "id": "c0786",
+  "source": "icon tags",
+  "question": "Does this icon show a horns?"
+ },
+ {
+  "id": "c0787",
+  "source": "icon tags",
+  "question": "Does this icon show a skull?"
+ },
+ {
+  "id": "c0788",
+  "source": "icon tags",
+  "question": "Does this icon show a pile?"
+ },
+ {
+  "id": "c0789",
+  "source": "icon tags",
+  "question": "Does this icon show an alien?"
+ },
+ {
+  "id": "c0790",
+  "source": "icon tags",
+  "question": "Does this icon show a robot?"
+ },
+ {
+  "id": "c0791",
+  "source": "icon tags",
+  "question": "Does this icon show a valentine?"
+ },
+ {
+  "id": "c0792",
+  "source": "icon tags",
+  "question": "Does this icon show a hole?"
+ },
+ {
+  "id": "c0793",
+  "source": "icon tags",
+  "question": "Does this icon show a handshake?"
+ },
+ {
+  "id": "c0794",
+  "source": "icon tags",
+  "question": "Does this icon show a palm?"
+ },
+ {
+  "id": "c0795",
+  "source": "icon tags",
+  "question": "Does this icon show a feet?"
+ },
+ {
+  "id": "c0796",
+  "source": "icon tags",
+  "question": "Does this icon show a dog?"
+ },
+ {
+  "id": "c0797",
+  "source": "icon tags",
+  "question": "Does this icon show a newborn?"
+ },
+ {
+  "id": "c0798",
+  "source": "icon tags",
+  "question": "Does this icon show a facepalm?"
+ },
+ {
+  "id": "c0799",
+  "source": "icon tags",
+  "question": "Does this icon show a farmer?"
+ },
+ {
+  "id": "c0800",
+  "source": "icon tags",
+  "question": "Does this icon show a plumber?"
+ },
+ {
+  "id": "c0801",
+  "source": "icon tags",
+  "question": "Does this icon show a painting?"
+ },
+ {
+  "id": "c0802",
+  "source": "icon tags",
+  "question": "Does this icon show a helmet?"
+ },
+ {
+  "id": "c0803",
+  "source": "icon tags",
+  "question": "Does this icon show a siren?"
+ },
+ {
+  "id": "c0804",
+  "source": "icon tags",
+  "question": "Does this icon show a knees?"
+ },
+ {
+  "id": "c0805",
+  "source": "icon tags",
+  "question": "Does this icon show a dancer?"
+ },
+ {
+  "id": "c0806",
+  "source": "icon tags",
+  "question": "Does this icon show a bunny?"
+ },
+ {
+  "id": "c0807",
+  "source": "icon tags",
+  "question": "Does this icon show a golf?"
+ },
+ {
+  "id": "c0808",
+  "source": "icon tags",
+  "question": "Does this icon show a cruise?"
+ },
+ {
+  "id": "c0809",
+  "source": "icon tags",
+  "question": "Does this icon show a paddle?"
+ },
+ {
+  "id": "c0810",
+  "source": "icon tags",
+  "question": "Does this icon show a bicyclist?"
+ },
+ {
+  "id": "c0811",
+  "source": "icon tags",
+  "question": "Does this icon show a cyclist?"
+ },
+ {
+  "id": "c0812",
+  "source": "icon tags",
+  "question": "Does this icon show a twins?"
+ },
+ {
+  "id": "c0813",
+  "source": "icon tags",
+  "question": "Does this icon show a spring?"
+ },
+ {
+  "id": "c0814",
+  "source": "icon tags",
+  "question": "Does this icon show a pest?"
+ },
+ {
+  "id": "c0815",
+  "source": "icon tags",
+  "question": "Does this icon show a microbe?"
+ },
+ {
+  "id": "c0816",
+  "source": "icon tags",
+  "question": "Does this icon show an apple?"
+ },
+ {
+  "id": "c0817",
+  "source": "icon tags",
+  "question": "Does this icon show a cream?"
+ },
+ {
+  "id": "c0818",
+  "source": "icon tags",
+  "question": "Does this icon show a bear?"
+ },
+ {
+  "id": "c0819",
+  "source": "icon tags",
+  "question": "Does this icon show a milk?"
+ },
+ {
+  "id": "c0820",
+  "source": "icon tags",
+  "question": "Does this icon show a fork?"
+ },
+ {
+  "id": "c0821",
+  "source": "icon tags",
+  "question": "Does this icon show a train?"
+ },
+ {
+  "id": "c0822",
+  "source": "jevlint text",
+  "question": "Does this icon show an engine?"
+ },
+ {
+  "id": "c0823",
+  "source": "jevlint text",
+  "question": "Does this icon show an island?"
+ },
+ {
+  "id": "c0824",
+  "source": "jevlint text",
+  "question": "Does this icon show a field?"
+ },
+ {
+  "id": "c0825",
+  "source": "jevlint text",
+  "question": "Does this icon show a numbers?"
+ },
+ {
+  "id": "c0826",
+  "source": "jevlint text",
+  "question": "Does this icon show a ctenophore?"
+ },
+ {
+  "id": "c0827",
+  "source": "jevlint text",
+  "question": "Does this icon show a market?"
+ },
+ {
+  "id": "c0828",
+  "source": "jevlint text",
+  "question": "Does this icon show an oil?"
+ },
+ {
+  "id": "c0829",
+  "source": "jevlint text",
+  "question": "Does this icon show a machine?"
+ },
+ {
+  "id": "c0830",
+  "source": "jevlint text",
+  "question": "Does this icon show a town?"
+ },
+ {
+  "id": "c0831",
+  "source": "jevlint text",
+  "question": "Does this icon show a children?"
+ },
+ {
+  "id": "c0832",
+  "source": "jevlint text",
+  "question": "Does this icon show a turbine?"
+ },
+ {
+  "id": "c0833",
+  "source": "jevlint text",
+  "question": "Does this icon show a cities?"
+ },
+ {
+  "id": "c0834",
+  "source": "jevlint text",
+  "question": "Does this icon show a men?"
+ },
+ {
+  "id": "c0835",
+  "source": "jevlint text",
+  "question": "Does this icon show a pharmacy?"
+ },
+ {
+  "id": "c0836",
+  "source": "jevlint text",
+  "question": "Does this icon show a cylinder?"
+ },
+ {
+  "id": "c0837",
+  "source": "jevlint text",
+  "question": "Does this icon show a stage?"
+ },
+ {
+  "id": "c0838",
+  "source": "jevlint text",
+  "question": "Does this icon show a colonies?"
+ },
+ {
+  "id": "c0839",
+  "source": "jevlint text",
+  "question": "Does this icon show an army?"
+ },
+ {
+  "id": "c0840",
+  "source": "jevlint text",
+  "question": "Does this icon show a channel?"
+ },
+ {
+  "id": "c0841",
+  "source": "jevlint text",
+  "question": "Does this icon show a ground?"
+ },
+ {
+  "id": "c0842",
+  "source": "jevlint text",
+  "question": "Does this icon show a comb?"
+ },
+ {
+  "id": "c0843",
+  "source": "jevlint text",
+  "question": "Does this icon show a women?"
+ },
+ {
+  "id": "c0844",
+  "source": "jevlint text",
+  "question": "Does this icon show a seat?"
+ },
+ {
+  "id": "c0845",
+  "source": "jevlint text",
+  "question": "Does this icon show a places?"
+ },
+ {
+  "id": "c0846",
+  "source": "jevlint text",
+  "question": "Does this icon show an organism?"
+ },
+ {
+  "id": "c0847",
+  "source": "jevlint text",
+  "question": "Does this icon show a rainforest?"
+ },
+ {
+  "id": "c0848",
+  "source": "jevlint text",
+  "question": "Does this icon show a packet?"
+ },
+ {
+  "id": "c0849",
+  "source": "jevlint text",
+  "question": "Does this icon show a coast?"
+ },
+ {
+  "id": "c0850",
+  "source": "jevlint text",
+  "question": "Does this icon show a tourist?"
+ },
+ {
+  "id": "c0851",
+  "source": "jevlint text",
+  "question": "Does this icon show a chamber?"
+ },
+ {
+  "id": "c0852",
+  "source": "jevlint text",
+  "question": "Does this icon show a prey?"
+ },
+ {
+  "id": "c0853",
+  "source": "jevlint text",
+  "question": "Does this icon show a bridge?"
+ },
+ {
+  "id": "c0854",
+  "source": "jevlint text",
+  "question": "Does this icon show a campus?"
+ },
+ {
+  "id": "c0855",
+  "source": "jevlint text",
+  "question": "Does this icon show a delta?"
+ },
+ {
+  "id": "c0856",
+  "source": "jevlint text",
+  "question": "Does this icon show a bodies?"
+ },
+ {
+  "id": "c0857",
+  "source": "jevlint text",
+  "question": "Does this icon show a cydippid?"
+ },
+ {
+  "id": "c0858",
+  "source": "jevlint text",
+  "question": "Does this icon show an airport?"
+ },
+ {
+  "id": "c0859",
+  "source": "jevlint text",
+  "question": "Does this icon show a valve?"
+ },
+ {
+  "id": "c0860",
+  "source": "jevlint text",
+  "question": "Does this icon show an atom?"
+ },
+ {
+  "id": "c0861",
+  "source": "jevlint text",
+  "question": "Does this icon show a tentacle?"
+ },
+ {
+  "id": "c0862",
+  "source": "jevlint text",
+  "question": "Does this icon show a fuel?"
+ },
+ {
+  "id": "c0863",
+  "source": "jevlint text",
+  "question": "Does this icon show a housing?"
+ },
+ {
+  "id": "c0864",
+  "source": "jevlint text",
+  "question": "Does this icon show a cilia?"
+ },
+ {
+  "id": "c0865",
+  "source": "jevlint text",
+  "question": "Does this icon show a temple?"
+ },
+ {
+  "id": "c0866",
+  "source": "jevlint text",
+  "question": "Does this icon show a plate?"
+ },
+ {
+  "id": "c0867",
+  "source": "jevlint text",
+  "question": "Does this icon show a river?"
+ },
+ {
+  "id": "c0868",
+  "source": "jevlint text",
+  "question": "Does this icon show a boiler?"
+ },
+ {
+  "id": "c0869",
+  "source": "jevlint text",
+  "question": "Does this icon show a fossil?"
+ },
+ {
+  "id": "c0870",
+  "source": "jevlint text",
+  "question": "Does this icon show a court?"
+ },
+ {
+  "id": "c0871",
+  "source": "jevlint text",
+  "question": "Does this icon show a basin?"
+ },
+ {
+  "id": "c0872",
+  "source": "jevlint text",
+  "question": "Does this icon show a supplies?"
+ },
+ {
+  "id": "c0873",
+  "source": "jevlint text",
+  "question": "Does this icon show a camp?"
+ },
+ {
+  "id": "c0874",
+  "source": "jevlint text",
+  "question": "Does this icon show a football?"
+ },
+ {
+  "id": "c0875",
+  "source": "jevlint text",
+  "question": "Does this icon show a pharmacies?"
+ },
+ {
+  "id": "c0876",
+  "source": "jevlint text",
+  "question": "Does this icon show a tumor?"
+ },
+ {
+  "id": "c0877",
+  "source": "jevlint text",
+  "question": "Does this icon show a storm?"
+ },
+ {
+  "id": "c0878",
+  "source": "jevlint text",
+  "question": "Does this icon show a churches?"
+ },
+ {
+  "id": "c0879",
+  "source": "jevlint text",
+  "question": "Does this icon show a branches?"
+ },
+ {
+  "id": "c0880",
+  "source": "jevlint text",
+  "question": "Does this icon show a passenger?"
+ },
+ {
+  "id": "c0881",
+  "source": "jevlint text",
+  "question": "Does this icon show a village?"
+ },
+ {
+  "id": "c0882",
+  "source": "jevlint text",
+  "question": "Does this icon show a theater?"
+ },
+ {
+  "id": "c0883",
+  "source": "jevlint text",
+  "question": "Does this icon show a prescription?"
+ },
+ {
+  "id": "c0884",
+  "source": "jevlint text",
+  "question": "Does this icon show a string?"
+ },
+ {
+  "id": "c0885",
+  "source": "jevlint text",
+  "question": "Does this icon show a cent?"
+ },
+ {
+  "id": "c0886",
+  "source": "jevlint text",
+  "question": "Does this icon show a barrier?"
+ },
+ {
+  "id": "c0887",
+  "source": "jevlint text",
+  "question": "Does this icon show a pump?"
+ },
+ {
+  "id": "c0888",
+  "source": "jevlint text",
+  "question": "Does this icon show an iron?"
+ },
+ {
+  "id": "c0889",
+  "source": "jevlint text",
+  "question": "Does this icon show a club?"
+ },
+ {
+  "id": "c0890",
+  "source": "jevlint text",
+  "question": "Does this icon show a piston?"
+ },
+ {
+  "id": "c0891",
+  "source": "jevlint text",
+  "question": "Does this icon show a coal?"
+ },
+ {
+  "id": "c0892",
+  "source": "jevlint text",
+  "question": "Does this icon show a pole?"
+ },
+ {
+  "id": "c0893",
+  "source": "jevlint text",
+  "question": "Does this icon show a fleet?"
+ },
+ {
+  "id": "c0894",
+  "source": "jevlint text",
+  "question": "Does this icon show a saw?"
+ },
+ {
+  "id": "c0895",
+  "source": "jevlint text",
+  "question": "Does this icon show an arm?"
+ },
+ {
+  "id": "c0896",
+  "source": "jevlint text",
+  "question": "Does this icon show a press?"
+ },
+ {
+  "id": "c0897",
+  "source": "jevlint text",
+  "question": "Does this icon show a chair?"
+ },
+ {
+  "id": "c0898",
+  "source": "jevlint text",
+  "question": "Does this icon show a ski?"
+ },
+ {
+  "id": "c0899",
+  "source": "jevlint text",
+  "question": "Does this icon show a traveller?"
+ },
+ {
+  "id": "c0900",
+  "source": "jevlint text",
+  "question": "Does this icon show a plain?"
+ },
+ {
+  "id": "c0901",
+  "source": "jevlint text",
+  "question": "Does this icon show a visa?"
+ },
+ {
+  "id": "c0902",
+  "source": "jevlint text",
+  "question": "Does this icon show a pyramid?"
+ },
+ {
+  "id": "c0903",
+  "source": "jevlint text",
+  "question": "Does this icon show a throne?"
+ },
+ {
+  "id": "c0904",
+  "source": "jevlint text",
+  "question": "Does this icon show a beaches?"
+ },
+ {
+  "id": "c0905",
+  "source": "jevlint text",
+  "question": "Does this icon show a soldier?"
+ },
+ {
+  "id": "c0906",
+  "source": "jevlint text",
+  "question": "Does this icon show a metre?"
+ },
+ {
+  "id": "c0907",
+  "source": "jevlint text",
+  "question": "Does this icon show a crust?"
+ },
+ {
+  "id": "c0908",
+  "source": "jevlint text",
+  "question": "Does this icon show a shop?"
+ },
+ {
+  "id": "c0909",
+  "source": "jevlint text",
+  "question": "Does this icon show a shore?"
+ },
+ {
+  "id": "c0910",
+  "source": "jevlint text",
+  "question": "Does this icon show a carriage?"
+ },
+ {
+  "id": "c0911",
+  "source": "jevlint text",
+  "question": "Does this icon show a locomotive?"
+ },
+ {
+  "id": "c0912",
+  "source": "jevlint text",
+  "question": "Does this icon show a condenser?"
+ },
+ {
+  "id": "c0913",
+  "source": "jevlint text",
+  "question": "Does this icon show a tissue?"
+ },
+ {
+  "id": "c0914",
+  "source": "jevlint text",
+  "question": "Does this icon show a sediment?"
+ },
+ {
+  "id": "c0915",
+  "source": "jevlint text",
+  "question": "Does this icon show a predator?"
+ },
+ {
+  "id": "c0916",
+  "source": "jevlint text",
+  "question": "Does this icon show a trail?"
+ },
+ {
+  "id": "c0917",
+  "source": "jevlint text",
+  "question": "Does this icon show a cave?"
+ },
+ {
+  "id": "c0918",
+  "source": "jevlint text",
+  "question": "Does this icon show a tomb?"
+ },
+ {
+  "id": "c0919",
+  "source": "jevlint text",
+  "question": "Does this icon show a tie?"
+ },
+ {
+  "id": "c0920",
+  "source": "jevlint text",
+  "question": "Does this icon show an automobile?"
+ },
+ {
+  "id": "c0921",
+  "source": "jevlint text",
+  "question": "Does this icon show an aircraft?"
+ },
+ {
+  "id": "c0922",
+  "source": "jevlint text",
+  "question": "Does this icon show a suburb?"
+ },
+ {
+  "id": "c0923",
+  "source": "jevlint text",
+  "question": "Does this icon show a quarter?"
+ },
+ {
+  "id": "c0924",
+  "source": "jevlint text",
+  "question": "Does this icon show a submarine?"
+ },
+ {
+  "id": "c0925",
+  "source": "jevlint text",
+  "question": "Does this icon show a railroad?"
+ },
+ {
+  "id": "c0926",
+  "source": "jevlint text",
+  "question": "Does this icon show a dust?"
+ },
+ {
+  "id": "c0927",
+  "source": "jevlint text",
+  "question": "Does this icon show a joint?"
+ },
+ {
+  "id": "c0928",
+  "source": "jevlint text",
+  "question": "Does this icon show a match?"
+ },
+ {
+  "id": "c0929",
+  "source": "jevlint text",
+  "question": "Does this icon show a cnidarians?"
+ },
+ {
+  "id": "c0930",
+  "source": "jevlint text",
+  "question": "Does this icon show a meter?"
+ },
+ {
+  "id": "c0931",
+  "source": "jevlint text",
+  "question": "Does this icon show a terrace?"
+ },
+ {
+  "id": "c0932",
+  "source": "jevlint text",
+  "question": "Does this icon show a viruses?"
+ },
+ {
+  "id": "c0933",
+  "source": "jevlint text",
+  "question": "Does this icon show a chain?"
+ },
+ {
+  "id": "c0934",
+  "source": "jevlint text",
+  "question": "Does this icon show a newspaper?"
+ },
+ {
+  "id": "c0935",
+  "source": "jevlint text",
+  "question": "Does this icon show a farm?"
+ },
+ {
+  "id": "c0936",
+  "source": "jevlint text",
+  "question": "Does this icon show a generator?"
+ },
+ {
+  "id": "c0937",
+  "source": "jevlint text",
+  "question": "Does this icon show a steel?"
+ },
+ {
+  "id": "c0938",
+  "source": "jevlint text",
+  "question": "Does this icon show a lung?"
+ },
+ {
+  "id": "c0939",
+  "source": "jevlint text",
+  "question": "Does this icon show a vegetation?"
+ },
+ {
+  "id": "c0940",
+  "source": "jevlint text",
+  "question": "Does this icon show a tank?"
+ },
+ {
+  "id": "c0941",
+  "source": "jevlint text",
+  "question": "Does this icon show a persons?"
+ },
+ {
+  "id": "c0942",
+  "source": "jevlint text",
+  "question": "Does this icon show a pit?"
+ },
+ {
+  "id": "c0943",
+  "source": "jevlint text",
+  "question": "Does this icon show a lenses?"
+ },
+ {
+  "id": "c0944",
+  "source": "jevlint text",
+  "question": "Does this icon show a plateau?"
+ },
+ {
+  "id": "c0945",
+  "source": "jevlint text",
+  "question": "Does this icon show a peak?"
+ },
+ {
+  "id": "c0946",
+  "source": "jevlint text",
+  "question": "Does this icon show a gauge?"
+ },
+ {
+  "id": "c0947",
+  "source": "jevlint text",
+  "question": "Does this icon show a cabinet?"
+ },
+ {
+  "id": "c0948",
+  "source": "jevlint text",
+  "question": "Does this icon show a burial?"
+ },
+ {
+  "id": "c0949",
+  "source": "jevlint text",
+  "question": "Does this icon show a solar?"
+ },
+ {
+  "id": "c0950",
+  "source": "jevlint text",
+  "question": "Does this icon show a mantle?"
+ },
+ {
+  "id": "c0951",
+  "source": "jevlint text",
+  "question": "Does this icon show a barrel?"
+ },
+ {
+  "id": "c0952",
+  "source": "jevlint text",
+  "question": "Does this icon show a rainfall?"
+ },
+ {
+  "id": "c0953",
+  "source": "jevlint text",
+  "question": "Does this icon show a larvae?"
+ },
+ {
+  "id": "c0954",
+  "source": "jevlint text",
+  "question": "Does this icon show a tentilla?"
+ },
+ {
+  "id": "c0955",
+  "source": "jevlint text",
+  "question": "Does this icon show a stock?"
+ },
+ {
+  "id": "c0956",
+  "source": "jevlint text",
+  "question": "Does this icon show a jellyfish?"
+ },
+ {
+  "id": "c0957",
+  "source": "jevlint text",
+  "question": "Does this icon show a muscle?"
+ },
+ {
+  "id": "c0958",
+  "source": "jevlint text",
+  "question": "Does this icon show a fleas?"
+ },
+ {
+  "id": "c0959",
+  "source": "jevlint text",
+  "question": "Does this icon show a jail?"
+ },
+ {
+  "id": "c0960",
+  "source": "jevlint text",
+  "question": "Does this icon show a libraries?"
+ },
+ {
+  "id": "c0961",
+  "source": "jevlint text",
+  "question": "Does this icon show a pupils?"
+ },
+ {
+  "id": "c0962",
+  "source": "jevlint text",
+  "question": "Does this icon show a bomb?"
+ },
+ {
+  "id": "c0963",
+  "source": "jevlint text",
+  "question": "Does this icon show an archipelago?"
+ },
+ {
+  "id": "c0964",
+  "source": "jevlint text",
+  "question": "Does this icon show a cannonball?"
+ },
+ {
+  "id": "c0965",
+  "source": "jevlint text",
+  "question": "Does this icon show a gate?"
+ },
+ {
+  "id": "c0966",
+  "source": "jevlint text",
+  "question": "Does this icon show a castle?"
+ },
+ {
+  "id": "c0967",
+  "source": "jevlint text",
+  "question": "Does this icon show a cattle?"
+ },
+ {
+  "id": "c0968",
+  "source": "jevlint text",
+  "question": "Does this icon show a galaxy?"
+ },
+ {
+  "id": "c0969",
+  "source": "jevlint text",
+  "question": "Does this icon show a rugby?"
+ },
+ {
+  "id": "c0970",
+  "source": "jevlint text",
+  "question": "Does this icon show a crop?"
+ },
+ {
+  "id": "c0971",
+  "source": "jevlint text",
+  "question": "Does this icon show a vessel?"
+ },
+ {
+  "id": "c0972",
+  "source": "jevlint text",
+  "question": "Does this icon show a trigger?"
+ },
+ {
+  "id": "c0973",
+  "source": "jevlint text",
+  "question": "Does this icon show an athlete?"
+ },
+ {
+  "id": "c0974",
+  "source": "jevlint text",
+  "question": "Does this icon show a soil?"
+ },
+ {
+  "id": "c0975",
+  "source": "jevlint text",
+  "question": "Does this icon show a rat?"
+ },
+ {
+  "id": "c0976",
+  "source": "jevlint text",
+  "question": "Does this icon show a lava?"
+ },
+ {
+  "id": "c0977",
+  "source": "jevlint text",
+  "question": "Does this icon show a pool?"
+ },
+ {
+  "id": "c0978",
+  "source": "jevlint text",
+  "question": "Does this icon show a tide?"
+ },
+ {
+  "id": "c0979",
+  "source": "jevlint text",
+  "question": "Does this icon show a flood?"
+ },
+ {
+  "id": "c0980",
+  "source": "jevlint text",
+  "question": "Does this icon show a traveler?"
+ },
+ {
+  "id": "c0981",
+  "source": "jevlint text",
+  "question": "Does this icon show a macrophages?"
+ },
+ {
+  "id": "c0982",
+  "source": "jevlint text",
+  "question": "Does this icon show a tsunami?"
+ },
+ {
+  "id": "c0983",
+  "source": "jevlint text",
+  "question": "Does this icon show a treasure?"
+ },
+ {
+  "id": "c0984",
+  "source": "jevlint text",
+  "question": "Does this icon show a prisoner?"
+ },
+ {
+  "id": "c0985",
+  "source": "jevlint text",
+  "question": "Does this icon show a daughter?"
+ },
+ {
+  "id": "c0986",
+  "source": "jevlint text",
+  "question": "Does this icon show a hill?"
+ },
+ {
+  "id": "c0987",
+  "source": "jevlint text",
+  "question": "Does this icon show a platform?"
+ },
+ {
+  "id": "c0988",
+  "source": "jevlint text",
+  "question": "Does this icon show a boxes?"
+ },
+ {
+  "id": "c0989",
+  "source": "jevlint text",
+  "question": "Does this icon show a counter?"
+ },
+ {
+  "id": "c0990",
+  "source": "jevlint text",
+  "question": "Does this icon show a lane?"
+ },
+ {
+  "id": "c0991",
+  "source": "jevlint text",
+  "question": "Does this icon show a burning?"
+ },
+ {
+  "id": "c0992",
+  "source": "jevlint text",
+  "question": "Does this icon show a pad?"
+ },
+ {
+  "id": "c0993",
+  "source": "jevlint text",
+  "question": "Does this icon show a terrain?"
+ },
+ {
+  "id": "c0994",
+  "source": "jevlint text",
+  "question": "Does this icon show a certificate?"
+ },
+ {
+  "id": "c0995",
+  "source": "kinds (DBpedia-14, TREC, broad)",
+  "question": "Does this icon show an animal?"
+ },
+ {
+  "id": "c0996",
+  "source": "kinds (DBpedia-14, TREC, broad)",
+  "question": "Does this icon show a plant?"
+ },
+ {
+  "id": "c0997",
+  "source": "kinds (DBpedia-14, TREC, broad)",
+  "question": "Does this icon show a building?"
+ },
+ {
+  "id": "c0998",
+  "source": "kinds (DBpedia-14, TREC, broad)",
+  "question": "Does this icon show a means of transportation?"
+ },
+ {
+  "id": "c0999",
+  "source": "kinds (DBpedia-14, TREC, broad)",
+  "question": "Does this icon show a natural place such as a mountain, river or sea?"
+ },
+ {
+  "id": "c1000",
+  "source": "kinds (DBpedia-14, TREC, broad)",
+  "question": "Does this icon show a human being?"
+ },
+ {
+  "id": "c1001",
+  "source": "kinds (DBpedia-14, TREC, broad)",
+  "question": "Does this icon show a place or location?"
+ },
+ {
+  "id": "c1002",
+  "source": "kinds (DBpedia-14, TREC, broad)",
+  "question": "Does this icon show a book or written work?"
+ },
+ {
+  "id": "c1003",
+  "source": "kinds (DBpedia-14, TREC, broad)",
+  "question": "Does this icon show an athlete or sport?"
+ },
+ {
+  "id": "c1004",
+  "source": "kinds (DBpedia-14, TREC, broad)",
+  "question": "Does this icon show an artist or art-making?"
+ },
+ {
+  "id": "c1005",
+  "source": "kinds (DBpedia-14, TREC, broad)",
+  "question": "Does this icon show something edible?"
+ },
+ {
+  "id": "c1006",
+  "source": "kinds (DBpedia-14, TREC, broad)",
+  "question": "Does this icon show something to drink?"
+ },
+ {
+  "id": "c1007",
+  "source": "kinds (DBpedia-14, TREC, broad)",
+  "question": "Does this icon show something worn on the body?"
+ },
+ {
+  "id": "c1008",
+  "source": "kinds (DBpedia-14, TREC, broad)",
+  "question": "Does this icon show a hand tool?"
+ },
+ {
+  "id": "c1009",
+  "source": "kinds (DBpedia-14, TREC, broad)",
+  "question": "Does this icon show a machine or appliance?"
+ },
+ {
+  "id": "c1010",
+  "source": "kinds (DBpedia-14, TREC, broad)",
+  "question": "Does this icon show weather or sky?"
+ },
+ {
+  "id": "c1011",
+  "source": "kinds (DBpedia-14, TREC, broad)",
+  "question": "Does this icon show an abstract symbol or sign?"
+ },
+ {
+  "id": "c1012",
+  "source": "kinds (DBpedia-14, TREC, broad)",
+  "question": "Does this icon show a number or digit?"
+ },
+ {
+  "id": "c1013",
+  "source": "kinds (DBpedia-14, TREC, broad)",
+  "question": "Does this icon show furniture?"
+ },
+ {
+  "id": "c1014",
+  "source": "kinds (DBpedia-14, TREC, broad)",
+  "question": "Does this icon show a container?"
+ },
+ {
+  "id": "c1015",
+  "source": "kinds (DBpedia-14, TREC, broad)",
+  "question": "Does this icon show a musical instrument?"
+ },
+ {
+  "id": "c1016",
+  "source": "kinds (DBpedia-14, TREC, broad)",
+  "question": "Does this icon show a toy or game?"
+ },
+ {
+  "id": "c1017",
+  "source": "kinds (DBpedia-14, TREC, broad)",
+  "question": "Does this icon show a body part?"
+ },
+ {
+  "id": "c1018",
+  "source": "visual",
+  "question": "Is the overall outline round?"
+ },
+ {
+  "id": "c1019",
+  "source": "visual",
+  "question": "Is the overall outline tall and narrow?"
+ },
+ {
+  "id": "c1020",
+  "source": "visual",
+  "question": "Is the overall outline wide and flat?"
+ },
+ {
+  "id": "c1021",
+  "source": "visual",
+  "question": "Is the drawing symmetric left to right?"
+ },
+ {
+  "id": "c1022",
+  "source": "visual",
+  "question": "Does the drawing have a pointed top?"
+ },
+ {
+  "id": "c1023",
+  "source": "visual",
+  "question": "Does the drawing have a flat base it could stand on?"
+ },
+ {
+  "id": "c1024",
+  "source": "visual",
+  "question": "Is the drawing made of many small separate parts?"
+ },
+ {
+  "id": "c1025",
+  "source": "visual",
+  "question": "Is the drawing a single solid shape?"
+ },
+ {
+  "id": "c1026",
+  "source": "visual",
+  "question": "Does the drawing contain a circle?"
+ },
+ {
+  "id": "c1027",
+  "source": "visual",
+  "question": "Does the drawing contain a rectangle?"
+ },
+ {
+  "id": "c1028",
+  "source": "visual",
+  "question": "Does the drawing contain a triangle?"
+ },
+ {
+  "id": "c1029",
+  "source": "visual",
+  "question": "Does the drawing contain straight parallel lines?"
+ },
+ {
+  "id": "c1030",
+  "source": "visual",
+  "question": "Does the drawing contain stripes?"
+ },
+ {
+  "id": "c1031",
+  "source": "visual",
+  "question": "Does the drawing contain dots or spots?"
+ },
+ {
+  "id": "c1032",
+  "source": "visual",
+  "question": "Does the drawing contain a wavy line?"
+ },
+ {
+  "id": "c1033",
+  "source": "visual",
+  "question": "Does the drawing contain a zigzag?"
+ },
+ {
+  "id": "c1034",
+  "source": "visual",
+  "question": "Does the drawing contain a spiral?"
+ },
+ {
+  "id": "c1035",
+  "source": "visual",
+  "question": "Does the drawing contain a grid?"
+ },
+ {
+  "id": "c1036",
+  "source": "visual",
+  "question": "Does the drawing have a face with eyes?"
+ },
+ {
+  "id": "c1037",
+  "source": "visual",
+  "question": "Does the drawing have legs?"
+ },
+ {
+  "id": "c1038",
+  "source": "visual",
+  "question": "Does the drawing have wings?"
+ },
+ {
+  "id": "c1039",
+  "source": "visual",
+  "question": "Does the drawing have a tail?"
+ },
+ {
+  "id": "c1040",
+  "source": "visual",
+  "question": "Does the drawing have wheels?"
+ },
+ {
+  "id": "c1041",
+  "source": "visual",
+  "question": "Does the drawing have a handle?"
+ },
+ {
+  "id": "c1042",
+  "source": "visual",
+  "question": "Does the drawing have a lid or cap?"
+ },
+ {
+  "id": "c1043",
+  "source": "visual",
+  "question": "Does the drawing have a window?"
+ },
+ {
+  "id": "c1044",
+  "source": "visual",
+  "question": "Does the drawing have a door?"
+ },
+ {
+  "id": "c1045",
+  "source": "visual",
+  "question": "Does the drawing have leaves?"
+ },
+ {
+  "id": "c1046",
+  "source": "visual",
+  "question": "Does the drawing have a stem or stick?"
+ },
+ {
+  "id": "c1047",
+  "source": "visual",
+  "question": "Does the drawing have a hole in it?"
+ },
+ {
+  "id": "c1048",
+  "source": "visual",
+  "question": "Is one shape stacked on top of another?"
+ },
+ {
+  "id": "c1049",
+  "source": "visual",
+  "question": "Is something inside a frame or border?"
+ },
+ {
+  "id": "c1050",
+  "source": "visual",
+  "question": "Is there text or lettering?"
+ },
+ {
+  "id": "c1051",
+  "source": "visual",
+  "question": "Is there an arrow?"
+ },
+ {
+  "id": "c1052",
+  "source": "visual",
+  "question": "Does the drawing look three-dimensional?"
+ },
+ {
+  "id": "c1053",
+  "source": "visual",
+  "question": "Does the drawing look like a silhouette?"
+ },
+ {
+  "id": "c1054",
+  "source": "visual",
+  "question": "Is the drawing seen from the side?"
+ },
+ {
+  "id": "c1055",
+  "source": "visual",
+  "question": "Is the drawing seen from the front?"
+ },
+ {
+  "id": "c1056",
+  "source": "visual",
+  "question": "Is the drawing seen from above?"
+ },
+ {
+  "id": "c1057",
+  "source": "visual",
+  "question": "Does the drawing show motion lines?"
+ },
+ {
+  "id": "c1058",
+  "source": "visual",
+  "question": "Does the drawing show liquid?"
+ },
+ {
+  "id": "c1059",
+  "source": "visual",
+  "question": "Does the drawing show fire or flames?"
+ },
+ {
+  "id": "c1060",
+  "source": "visual",
+  "question": "Does the drawing show light rays?"
+ },
+ {
+  "id": "c1061",
+  "source": "visual",
+  "question": "Does the drawing show steam or smoke?"
+ },
+ {
+  "id": "c1062",
+  "source": "visual",
+  "question": "Does the drawing show a person?"
+ },
+ {
+  "id": "c1063",
+  "source": "visual",
+  "question": "Does the drawing show more than one object?"
+ },
+ {
+  "id": "c1064",
+  "source": "visual",
+  "question": "Is the main object tilted at an angle?"
+ },
+ {
+  "id": "c1065",
+  "source": "visual",
+  "question": "Does the drawing fill most of the canvas?"
+ },
+ {
+  "id": "c1066",
+  "source": "visual",
+  "question": "Is the drawing small in the middle of the canvas?"
+ },
+ {
+  "id": "c1067",
+  "source": "visual",
+  "question": "Does the drawing have sharp corners?"
+ },
+ {
+  "id": "c1068",
+  "source": "visual",
+  "question": "Does the drawing have mostly curved edges?"
+ },
+ {
+  "id": "c1069",
+  "source": "visual",
+  "question": "Is the drawing detailed?"
+ },
+ {
+  "id": "c1070",
+  "source": "visual",
+  "question": "Is the drawing very simple?"
+ },
+ {
+  "id": "c1071",
+  "source": "visual",
+  "question": "Does the drawing contain a star shape?"
+ },
+ {
+  "id": "c1072",
+  "source": "visual",
+  "question": "Does the drawing contain a heart shape?"
+ },
+ {
+  "id": "c1073",
+  "source": "visual",
+  "question": "Does the drawing contain a cross or plus shape?"
+ },
+ {
+  "id": "c1074",
+  "source": "visual",
+  "question": "Does the drawing contain a crescent?"
+ },
+ {
+  "id": "c1075",
+  "source": "visual",
+  "question": "Does the drawing contain a cone shape?"
+ },
+ {
+  "id": "c1076",
+  "source": "visual",
+  "question": "Does the drawing contain a cylinder shape?"
+ },
+ {
+  "id": "c1077",
+  "source": "visual",
+  "question": "Does the drawing contain a dome shape?"
+ },
+ {
+  "id": "c1078",
+  "source": "colour/material",
+  "question": "Is the drawing mostly red?"
+ },
+ {
+  "id": "c1079",
+  "source": "colour/material",
+  "question": "Is the drawing mostly orange?"
+ },
+ {
+  "id": "c1080",
+  "source": "colour/material",
+  "question": "Is the drawing mostly yellow?"
+ },
+ {
+  "id": "c1081",
+  "source": "colour/material",
+  "question": "Is the drawing mostly green?"
+ },
+ {
+  "id": "c1082",
+  "source": "colour/material",
+  "question": "Is the drawing mostly blue?"
+ },
+ {
+  "id": "c1083",
+  "source": "colour/material",
+  "question": "Is the drawing mostly purple?"
+ },
+ {
+  "id": "c1084",
+  "source": "colour/material",
+  "question": "Is the drawing mostly pink?"
+ },
+ {
+  "id": "c1085",
+  "source": "colour/material",
+  "question": "Is the drawing mostly brown?"
+ },
+ {
+  "id": "c1086",
+  "source": "colour/material",
+  "question": "Is the drawing mostly grey?"
+ },
+ {
+  "id": "c1087",
+  "source": "colour/material",
+  "question": "Is the drawing mostly black?"
+ },
+ {
+  "id": "c1088",
+  "source": "colour/material",
+  "question": "Is the drawing mostly white?"
+ },
+ {
+  "id": "c1089",
+  "source": "colour/material",
+  "question": "Does the drawing use many colours?"
+ },
+ {
+  "id": "c1090",
+  "source": "colour/material",
+  "question": "Does the drawing use only one or two colours?"
+ },
+ {
+  "id": "c1091",
+  "source": "colour/material",
+  "question": "Does the drawing contain skin tones?"
+ },
+ {
+  "id": "c1092",
+  "source": "colour/material",
+  "question": "Does the drawing look metallic?"
+ },
+ {
+  "id": "c1093",
+  "source": "colour/material",
+  "question": "Does the drawing look wooden?"
+ },
+ {
+  "id": "c1094",
+  "source": "colour/material",
+  "question": "Does the drawing look like glass?"
+ },
+ {
+  "id": "c1095",
+  "source": "colour/material",
+  "question": "Does the drawing look like fabric?"
+ },
+ {
+  "id": "c1096",
+  "source": "colour/material",
+  "question": "Does the drawing look like stone?"
+ },
+ {
+  "id": "c1097",
+  "source": "colour/material",
+  "question": "Does the drawing look like fur or feathers?"
+ },
+ {
+  "id": "c1098",
+  "source": "colour/material",
+  "question": "Does the drawing have a light colour on top and dark below?"
+ },
+ {
+  "id": "c1099",
+  "source": "colour/material",
+  "question": "Does the drawing have bright saturated colours?"
+ },
+ {
+  "id": "c1100",
+  "source": "colour/material",
+  "question": "Does the drawing have pale colours?"
+ },
+ {
+  "id": "c1101",
+  "source": "colour/material",
+  "question": "Does the drawing have a gradient or shading?"
+ }
+]

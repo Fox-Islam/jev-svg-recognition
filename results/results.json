@@ -1,0 +1,257 @@
+{
+ "colour": {
+  "fluent": {
+   "colour": 0.3868,
+   "grey": 0.3045,
+   "luma": 0.3621,
+   "n": 243
+  },
+  "openmoji": {
+   "colour": 0.5736,
+   "grey": 0.5685,
+   "luma": 0.5838,
+   "n": 197
+  },
+  "twemoji": {
+   "colour": 0.4621,
+   "grey": 0.4188,
+   "luma": 0.3863,
+   "n": 277
+  }
+ },
+ "corpus_pilot": {
+  "by_source": {
+   "ImageNet classes (open_clip)": {
+    "accuracy": 0.475,
+    "questions": 372
+   },
+   "colour/material": {
+    "accuracy": 0.44,
+    "questions": 24
+   },
+   "icon tags": {
+    "accuracy": 0.45,
+    "questions": 450
+   },
+   "jevlint text": {
+    "accuracy": 0.465,
+    "questions": 173
+   },
+   "kinds (DBpedia-14, TREC, broad)": {
+    "accuracy": 0.425,
+    "questions": 23
+   },
+   "visual": {
+    "accuracy": 0.44,
+    "questions": 60
+   }
+  },
+  "corpus_all": 0.465,
+  "corpus_questions": 1102,
+  "fixed100": 0.405,
+  "n": 200,
+  "only_corpus": 20,
+  "only_fixed": 8,
+  "random_100": [
+   0.475,
+   0.47,
+   0.45
+  ]
+ },
+ "fourth_style": {
+  "3_styles": {
+   "all_heldout": 0.4978,
+   "n_all": 464,
+   "n_noto": 150,
+   "noto_heldout": 0.36,
+   "train": 603
+  },
+  "4_styles": {
+   "all_heldout": 0.5603,
+   "n_all": 464,
+   "n_noto": 150,
+   "noto_heldout": 0.52,
+   "train": 897
+  },
+  "noto_unseen_style_shared_identities": {
+   "accuracy": 0.5312,
+   "n": 256
+  }
+ },
+ "normalisation": {
+  "all_styles": {
+   "n": 443,
+   "normalised": 0.5034,
+   "raw": 0.5079
+  },
+  "items": 1358,
+  "unseen_style": {
+   "fluent": {
+    "n": 74,
+    "normalised": 0.4054,
+    "only_normalised": 7,
+    "only_raw": 7,
+    "raw": 0.4054
+   },
+   "noto": {
+    "n": 150,
+    "normalised": 0.3667,
+    "only_normalised": 8,
+    "only_raw": 22,
+    "raw": 0.46
+   },
+   "openmoji": {
+    "n": 136,
+    "normalised": 0.4044,
+    "only_normalised": 16,
+    "only_raw": 11,
+    "raw": 0.3676
+   },
+   "twemoji": {
+    "n": 83,
+    "normalised": 0.5422,
+    "only_normalised": 16,
+    "only_raw": 7,
+    "raw": 0.4337
+   }
+  },
+  "unseen_style_mean": {
+   "normalised": 0.4297,
+   "raw": 0.4167
+  }
+ },
+ "rapidata": {
+  "family_split": 0.9201,
+  "labels": 23,
+  "model_split": 0.9385,
+  "per_family": {
+   "claude": {
+    "accuracy": 0.9833,
+    "n": 180
+   },
+   "deepseek": {
+    "accuracy": 1.0,
+    "n": 14
+   },
+   "gemini": {
+    "accuracy": 0.7059,
+    "n": 17
+   },
+   "glm": {
+    "accuracy": 0.9333,
+    "n": 15
+   },
+   "gpt": {
+    "accuracy": 0.8861,
+    "n": 79
+   },
+   "grok": {
+    "accuracy": 0.7692,
+    "n": 13
+   },
+   "hunyuan": {
+    "accuracy": 1.0,
+    "n": 2
+   },
+   "kimi": {
+    "accuracy": 0.9091,
+    "n": 22
+   },
+   "mimo": {
+    "accuracy": 1.0,
+    "n": 9
+   },
+   "minimax": {
+    "accuracy": 1.0,
+    "n": 10
+   },
+   "mistral": {
+    "accuracy": 1.0,
+    "n": 1
+   },
+   "muse": {
+    "accuracy": 1.0,
+    "n": 9
+   },
+   "nvidia": {
+    "accuracy": 1.0,
+    "n": 4
+   },
+   "quiver": {
+    "accuracy": 0.5714,
+    "n": 28
+   },
+   "qwen3": {
+    "accuracy": 1.0,
+    "n": 18
+   },
+   "sakana": {
+    "accuracy": 1.0,
+    "n": 17
+   }
+  },
+  "shows_label_vs_human_alignment": {
+   "jev_yes_rate": 0.7374,
+   "n": 438,
+   "p": 0.9321006123568119,
+   "spearman": 0.004
+  },
+  "test": 179,
+  "test_models": 16,
+  "train": 259,
+  "zero_shot": 0.3966
+ },
+ "rapidata_baselines": {
+  "code_ngrams": {
+   "family_split": 0.6667,
+   "model_split": 0.7765
+  },
+  "code_structure": {
+   "family_split": 0.7397,
+   "model_split": 0.7654
+  },
+  "pixels_16x16": {
+   "family_split": 0.7808,
+   "model_split": 0.7374
+  }
+ },
+ "rapidata_clip": {
+  "embeddings": {
+   "family_split": 0.9909,
+   "model_split": 1.0
+  },
+  "zero_shot": 0.9944
+ },
+ "rapidata_grids": {
+  "brightness_grid": {
+   "grid_cells_no_jev": {
+    "family_split": 0.7009,
+    "model_split": 0.6648
+   },
+   "jev_answers": {
+    "family_split": 0.5913,
+    "model_split": 0.6201
+   },
+   "jev_answers_with_svg_answers": {
+    "family_split": 0.9064,
+    "model_split": 0.9162
+   },
+   "zero_shot": 0.0782
+  },
+  "colour_grid": {
+   "grid_cells_no_jev": {
+    "family_split": 0.7237,
+    "model_split": 0.7095
+   },
+   "jev_answers": {
+    "family_split": 0.7283,
+    "model_split": 0.743
+   },
+   "jev_answers_with_svg_answers": {
+    "family_split": 0.9178,
+    "model_split": 0.933
+   },
+   "zero_shot": 0.0447
+  }
+ }
+}

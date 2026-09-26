@@ -1,0 +1,7 @@
+__pycache__/
+/.venv/
+/.pytest_cache/
+/.ruff_cache/
+.env
+# source SVGs: fetched by scripts/fetch.py, licensed per set (docs/data.md)
+/data/svg/
